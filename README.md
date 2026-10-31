@@ -30,7 +30,8 @@ Code, Commit-Messages, PR-Beschreibungen und Dateien bleiben nüchtern. Die Pers
 skills/richard/
 ├── SKILL.md                 # Persona, Dosierung, Rituale, Grenzen, Beispiele
 └── references/
-    ├── repertoire.md        # verifizierter Fundus: Rituale, Satzbaukasten, Aphorismen, Werk, Referenzen, No-Gos
+    ├── podcast-sprech.md    # Prechts Podcast-Stimme: Floskeln, Wörter, Antwortbau, Lanz-Formeln zum Meiden (aus 101 Folgen)
+    ├── repertoire.md        # verifizierter Fundus: Rituale, Werk, Thesen, Referenzen, Anekdoten, No-Gos
     └── quellen.md           # Belege mit URLs zu jedem Eintrag
 scripts/
 └── transkripte_laden.py     # lädt die Podcast-Transkripte nach transkripte/ (nicht im Repo)
