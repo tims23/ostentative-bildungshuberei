@@ -1,0 +1,817 @@
+# Quellen
+
+Hier stehen die Belege zu `repertoire.md`. Sie stammen aus einer Multi-Agent-Recherche vom 31.10.2026: Je Suchwinkel hat ein Agent recherchiert und ein zweiter, skeptischer Agent jeden Eintrag gegen die Quellen geprüft. Aufgeführt sind die Einträge mit dem Urteil „bestätigt“ oder „plausibel“, verworfene fehlen. Die Belegnotiz ist jeweils gekürzt.
+
+Lies diese Datei nur, wenn eine Faktenfrage es verlangt. Suche darin am besten per Grep nach einem Stichwort.
+
+## Inhalt
+1. Podcast „Lanz + Precht“
+2. Rhetorik und Sprechweise
+3. Werk und Thesen
+4. Referenzen und Biografie
+5. Fremdwahrnehmung, Parodien, Kontroversen
+
+## Podcast „Lanz + Precht“
+
+- **Schönen guten Morgen, Richard. – Guten Morgen, Markus.** (ritual, bestätigt)
+  - Prüfung: Ich habe alle 102 Transkripte aus dem Feed geladen und ausgezählt. Der Wortlaut steht in 269, 209 und vielen weiteren Folgen. Abend- und Hallo-Varianten sind in der Sonderausgabe und in 224 belegt. Die Zählung des Rechercheurs (86/93 von 95) ließ sich nicht exakt nachvollziehen, deshalb habe ich …
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/257584-269-krawalle-in-frankreich-demokratie-am-abgrund.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/211515-ausgabe-209-wir-schaffen-das-oder.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Richard, wo erreiche ich dich?** (ritual, bestätigt)
+  - Prüfung: Das Jubiläumszitat aus 261 steht wörtlich im Transkript. Die Frage kommt in rund 45 Transkripten in genau dieser Schreibweise vor, weitere stehen als Fehltranskription da („Wo reiche ich dich?“). Wikipedia und Apple Podcasts bestätigen den Parodie-Podcast, der Acast-Feed beginnt am 27.04.2023.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/253221-261-afd-auf-dem-weg-zur-blauen-hegemonie.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/217145-ausgabe-219-burnout-deutschland-oder-fehlt-uns-nur-mehr-mut.transcript.txt?v=2>
+  - <https://de.wikipedia.org/wiki/Lanz_+_Precht>
+  - <https://podcasts.apple.com/de/podcast/richard-wo-erreiche-ich-dich/id1684909887>
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+- **Zu Hause in der Kemenate.** (ritual, bestätigt)
+  - Prüfung: Ich habe die Eröffnungen von 178, 189, 194, 209, 219, 229, 233, 235, 242, 254 und 269 selbst gelesen, die Wortlaute stimmen. In rund 40 der 102 Transkripte steht eine Kemenate-Variante in den ersten 800 Zeichen. Das Zitat der Jüdischen Allgemeinen habe ich wörtlich geprüft.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/257584-269-krawalle-in-frankreich-demokratie-am-abgrund.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/217145-ausgabe-219-burnout-deutschland-oder-fehlt-uns-nur-mehr-mut.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/237031-235-angriff-auf-den-iran-ein-gerechter-krieg.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/248987-254-sommergespraech-mit-florence-gaub.transcript.txt?v=2>
+  - <https://www.juedische-allgemeine.de/meinung/irgendwie-so-bombt-man-sich-das-ganze-am-ende-zurecht/>
+- **Die Kemenate: Prechts Arbeits- und Rückzugszimmer in Düsseldorf, aus dem er den Podcast aufnimmt.** (referenz, bestätigt)
+  - Prüfung: Den Duden-Eintrag habe ich geöffnet, Bedeutung und Herkunft stimmen. Düsseldorf ist in den Transkripten 171, 180 und 193 belegt. Die TikTok-, X- und Abendblatt-Belege konnte ich nicht öffnen, sie sind deshalb nur als ungeprüft vermerkt.
+  - <https://www.duden.de/rechtschreibung/Kemenate>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/199699-ausgabe-180-trumps-deal-diplomatie-und-frieden-in-der-ukraine.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/211515-ausgabe-209-wir-schaffen-das-oder.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Ja, festlich geschmückt, Luftschlangen aufgehängt, kleine Champagnerbar eingerichtet.** (anekdote, bestätigt)
+  - Prüfung: Den Wortlaut habe ich in 181 gelesen (dort „Cheminate“ transkribiert). Auch Tonstudio (193), Klingel (223), 50 Grad (251, 252), „ist auch keiner“ (232) und Rumpelkammer (231) stehen so in den Transkripten.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/200112-ausgabe-181-europa-wo-bleibt-deine-vision.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/206339-ausgabe-193-momentum-fuer-die-ukraine-ist-die-zeit-reif-fuer-den-frieden.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/224349-ausgabe-223-vergessene-kriege-aus-dem-auge-aus-dem-sinn.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/248646-252-philosophie-ein-kompass-in-krisenzeiten.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/233317-231-werden-wir-immer-fauler.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/233728-232-ping-pong-politik-was-laehmt-die-koalition.transcript.txt?v=2>
+- **Das ist fast alles in der Evolution, du kennst ja meine These, hat das keinen besonderen Zweck, sondern man darf aussehen wie ein Perücken-Toco und überlebt trotzdem.** (anekdote, bestätigt)
+  - Prüfung: Der Satz steht wörtlich im Transkript 205275 (Ausgabe 191 laut Feed-Datum), ebenso Tiergarten und Präparator. Den Acast-Titel habe ich im Feed gefunden. Das TikTok-Video ließ sich nicht prüfen und ist deshalb aus den Quellen entfernt.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/205275-new-episode.transcript.txt?v=2>
+  - <https://feeds.acast.com/public/shows/64e608938fade000120ad85c>
+- **Am altbewährten Ort.** (redewendung, bestätigt)
+  - Prüfung: Alle Eröffnungen selbst geprüft. Kleine Korrekturen: In 170 sagt Precht nur „Am altbewährten Ort.“ ohne Kemenate. In 195 lautet die Antwort „In der schönen Keminate“, das „neue“ ergänzt vermutlich Lanz.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/195547-ausgabe-170-deutschland-einig-jammerland-wo-bleibt-die-zuversicht.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/199228-ausgabe-179-zwischen-gruenen-und-afd-wohin-steuert-der-konservativismus.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/243826-243-wie-ki-kriege-fuehrt.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/206855-ausgabe-195-afrika-der-vergessene-kontinent.transcript.txt?v=2>
+- **Aber die spannendere Frage ist heute, wo erreiche ich dich?** (ritual, bestätigt)
+  - Prüfung: Wortlaut in 235 geprüft, ebenso Pfalzen (258), Tallahassee (245) und die Formulierung in 189. Nicht geprüft habe ich die Orte Dänemark, Eifel, Buchmesse und „schwedisches Studio“, deshalb sind sie gestrichen.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/237031-235-angriff-auf-den-iran-ein-gerechter-krieg.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/204457-ausgabe-189-syrien-abschiebung-moeglich.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/244689-245-maga-bewegung-was-kommt-nach-trump.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/251344-258-sommergespraech-mit-jan-josef-liefers.transcript.txt?v=2>
+- **Die Frage, wo erreich ich dich, erübrigt sich heute.** (ritual, bestätigt)
+  - Prüfung: Alle vier Stellen stehen wörtlich in den Transkripten. Die Sätze sagt Lanz, nicht Precht.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/219562-new-episode.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/235365-244-tiktok-brain-wo-bleibt-unsere-aufmerksamkeit.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/245841-247-bedroht-ki-unsere-kreativitaet.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/209350-ausgabe-204-sommergespraech-mit-ingmar-stadelmann.transcript.txt?v=2>
+- **Was geht dir durch den Kopf, wenn du dir anschaust …?** (ritual, plausibel)
+  - Prüfung: Übermedien bestätigt „Worüber denkst du gerade nach?“ und „Was ist in deinem Kopf?“. Die Transkripte 171, 240 und 252 sowie die Folgentexte bestätigen das Muster. Der behauptete NZZ-Wortlaut als fester Einstieg ist nicht prüfbar, deshalb verbatim=false.
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/241472-240-iran-krieg-macht-und-maerkte.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/248646-252-philosophie-ein-kompass-in-krisenzeiten.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Ich danke dir auch, Markus. … Tschüss, Markus.** (ritual, bestätigt)
+  - Prüfung: Beide Wendungen kommen in den Transkriptenden vielfach vor. Die Zahlen des Rechercheurs (z. B. „dank dir sehr“ 70×) waren nicht reproduzierbar und sind durch meine eigene Zählung ersetzt. Das Übermedien-Zitat habe ich wörtlich geprüft.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/199699-ausgabe-180-trumps-deal-diplomatie-und-frieden-in-der-ukraine.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/195113-ausgabe-169-klima-vs-jobs-oder-geht-auch-beides.transcript.txt?v=2>
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+- **Wie schaust du da drauf, Richard?** (ritual, bestätigt)
+  - Prüfung: „Wie schaust du da drauf, Richard?“ steht wörtlich in 198, „an den Beginn … stellen“ in 205 und 211. Die NZZ-Liste der Lanz-Einwürfe („Okay“, „irre“ usw.) war wegen der Paywall nicht prüfbar und ist gestrichen.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/207671-ausgabe-198-israel-und-das-voelkerrecht-mit-kai-ambos.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/212733-ausgabe-211-attentat-auf-kirk-kulturkampf-in-den-usa.transcript.txt?v=2>
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+- **Zoodirektor meines Herzens** (redewendung, bestätigt)
+  - Prüfung: Den Feed-Text zu Ausgabe 91 (2023) habe ich gefunden. Die Wendungen in den Transkripten 243 und 260 und das Wal-Zitat im ZDF-Text zu 243 stimmen wörtlich.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/243826-243-wie-ki-kriege-fuehrt.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/252630-260-friedrich-merz-ein-denken-von-gestern.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Also ich bin ja ein vergleichsweise gesprächiger Ornithologe.** (anekdote, bestätigt)
+  - Prüfung: „gesprächiger Ornithologe“, „Rod Stewart“ und „ganz böse Fangfrage“ stehen wörtlich in 200 und 201, Köthen und 1974 in 261. Das Naumann-Museum habe ich nicht im Ausschnitt gesehen, es ist deshalb gestrichen.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/208720-ausgabe-200-unter-geiern-wer-sind-wir-und-warum-so-fatalistisch.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/208976-ausgabe-201-ungeschwaerzt-muessen-wir-jens-spahn-so-viel-verzeihen.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/253221-261-afd-auf-dem-weg-zur-blauen-hegemonie.transcript.txt?v=2>
+- **Wer zum Geier ist Lutz?** (anekdote, bestätigt)
+  - Prüfung: Beide Lanz-Zitate und die Solingen-Stelle stehen wörtlich in 202 und 253, den Acast-Titel habe ich im Feed gefunden. Korrektur: Köln wird im Transkript nicht genannt, dort heißt es nur „in der großen Stadt“.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/209251-ausgabe-202-mediale-zielscheibe-der-fall-brosius-gersdorf.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/249003-253-ist-der-ki-hype-am-ende.transcript.txt?v=2>
+  - <https://feeds.acast.com/public/shows/64e608938fade000120ad85c>
+- **Also du redest ständig über Dinge, von denen du keine Ahnung hast, heißt das? – Ja, das ist ja nicht nur bei dem Thema.** (anekdote, bestätigt)
+  - Prüfung: Der Wortwechsel steht wörtlich im Transkript 231, das Feed-Datum ist der 06.02.2026.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/233317-231-werden-wir-immer-fauler.transcript.txt?v=2>
+- **Ich glaube, da kommt die Seele in Frieden mit sich.** (anekdote, bestätigt)
+  - Prüfung: Zitat, „Bude einrennen“ und „Leuchtturmwärter-WG“ stehen im Transkript 173, „kleine Tradition“ im Feed-Text. Die Gästelisten habe ich mit den Feed-Titeln abgeglichen. Korrektur: Juli Zeh und Wohlleben waren 2026 zu Gast, nicht 2025.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/196570-ausgabe-173-kurioses-und-uebersehenes-randnotizen-des-jahres-2024.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **wir beide sind ja hier in unserem kleinen Podcast die Beauftragten für Liebe, Hoffnung und Zuversicht** (redewendung, bestätigt)
+  - Prüfung: Alle drei Zitate habe ich wörtlich gefunden (Transkripte 254 und 219, Feed-Text 226). Der Satz selbst stammt von Lanz.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/248987-254-sommergespraech-mit-florence-gaub.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/217145-ausgabe-219-burnout-deutschland-oder-fehlt-uns-nur-mehr-mut.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Wir sind ja Primaten. Gesellige Menschenaffen.** (denkfigur, bestätigt)
+  - Prüfung: Wortlaut in 223 geprüft (im Transkript klein geschrieben: „primaten“). „Primatenerbe“ und „Nahhorizont“ stehen in 190, „waldlichtungsbewohnend“ im Feed-Text 263, den Acast-Titel 244 habe ich gefunden.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/224349-ausgabe-223-vergessene-kriege-aus-dem-auge-aus-dem-sinn.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/204878-ausgabe-190-eine-tiefe-sehnsucht-warum-wir-glauben-wollen.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+  - <https://feeds.acast.com/public/shows/64e608938fade000120ad85c>
+- **Immer wenn der Karren im Dreck steckt, wollen die Leute radikale Lösungen** (denkfigur, bestätigt)
+  - Prüfung: Der Feed-Text 218 zitiert den Satz wörtlich als Precht, auch die Stellen in 169, 191 und 218 stimmen. Korrektur: In 169 heißt es „diktatorische“, nicht „autoritäre“ Regierungen.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/205275-new-episode.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/195113-ausgabe-169-klima-vs-jobs-oder-geht-auch-beides.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/216750-ausgabe-218-mit-der-kettensaege-regiert-mehr-milei-wagen.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Und so ungefähr, nach diesem Bortenprinzip, gehen wir mit unserem Sozialstaat um.** (denkfigur, bestätigt)
+  - Prüfung: Der Wortlaut steht im Transkript 191, das Titanic-Zitat im Feed-Text 213, den Acast-Titel habe ich gefunden.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/205275-new-episode.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+  - <https://feeds.acast.com/public/shows/64e608938fade000120ad85c>
+- **Niemand ist so schlecht wie sein Ruf und niemand ist so gut wie sein Nachruf** (redewendung, bestätigt)
+  - Prüfung: Der Feed-Text zu 160 gibt den Satz wörtlich als Prechts Analyse wieder. Das NZZ-Zitat zu Aphorismen ist wegen der Paywall nicht prüfbar und gestrichen.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Der Verstand ist die Marketing-Abteilung, die im Nachhinein die Entscheidungen des Gefühls erklärt** (redewendung, bestätigt)
+  - Prüfung: Alle genannten Aphorismen habe ich wörtlich in den Feed-Texten zu 151, 113, 233, 252 und 154 gefunden, jeweils Precht zugeschrieben. Den Heimwerker-Satz habe ich als eigenen Eintrag ausgegliedert.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **irrsinnig** (redewendung, bestätigt)
+  - Prüfung: Feed-Text 198 und Transkript 252 sind geprüft. Meine Zählung ergibt 45 von 102 Transkripten, die Angabe 41 von 95 ist entsprechend angepasst.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/248646-252-philosophie-ein-kompass-in-krisenzeiten.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **je optimaler wir werden, umso ärmer werden wir** (denkfigur, bestätigt)
+  - Prüfung: Die gesamte Passage steht wörtlich im Transkript 252.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/248646-252-philosophie-ein-kompass-in-krisenzeiten.transcript.txt?v=2>
+- **Ich stehe manchmal so wie ein Feldherr auf dem Hügel, habe da mein Fernrohr, gucke da vom Weitem auf die Schlacht und schaue mir das Treiben aus dem Himmel an.** (denkfigur, bestätigt)
+  - Prüfung: Übermedien habe ich geöffnet, das Zitat stimmt buchstabengetreu, die „entrückten Philosophen“ ebenso. Die Vogelperspektive steht in 173.
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/196570-ausgabe-173-kurioses-und-uebersehenes-randnotizen-des-jahres-2024.transcript.txt?v=2>
+- **Lieblingsidee: ein soziales Pflichtjahr nach der Schule und eines für die Generation, die in Rente geht.** (these, bestätigt)
+  - Prüfung: Alle Teilzitate stehen wörtlich im Transkript 210. Der Eintrag selbst ist eine Zusammenfassung, deshalb verbatim=false.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/212116-ausgabe-210-wehrpflicht-pflichtjahr-oder-einfach-null-bock.transcript.txt?v=2>
+- **Dinge, die früher zwischen links und rechts verhandelt werden, heute zwischen Mitte und Rand verhandelt werden** (these, bestätigt)
+  - Prüfung: Die Stellen in 242, 182 und 194 habe ich wörtlich gefunden, ebenso den Feed-Text 194.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/243336-242-israels-regierung-wie-viel-kritik-ist-moeglich.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/200549-ausgabe-182-die-grosse-qual-nach-der-wahl.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/206617-ausgabe-194-sagen-was-ist-wie-gefaehrdet-ist-unsere-meinungsfreiheit.transcript.txt?v=2>
+- **KI und das Denken: Was bleibt vom Verstehen, wenn die Antwort sofort da ist?** (thema, bestätigt)
+  - Prüfung: Die drei KI-Zitate stehen wörtlich in den Feed-Texten 267, 253 und 247, das Grundeinkommen-Zitat im Transkript 191. Korrektur: Die Formulierung „Schulhäuser wie bei Harry Potter“ steht so nirgends. Im Transkript 269 spricht Precht von „Lernhäuser[n], Gryffindor, Slytherin“.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/205275-new-episode.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/257584-269-krawalle-in-frankreich-demokratie-am-abgrund.transcript.txt?v=2>
+- **…das würde ich dem lieben Richard gerne mal erklären** (anekdote, bestätigt)
+  - Prüfung: Der Feed-Text zu 148 gibt das SMS-Zitat wörtlich wieder. Die taz habe ich geöffnet, „Wow!“ und „selbst ernannten Philosophen“ stimmen. Den Spotify-Link habe ich nicht geprüft und entfernt.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+  - <https://taz.de/Podcast-Auftritt-von-Toni-Kroos/!6019361/>
+- **die größte Immobilienfirma der Welt ist in Not. Sie sucht einen neuen Geschäftsführer.** (anekdote, bestätigt)
+  - Prüfung: Lanz' Wiedergabe steht wörtlich im Transkript 190, das Dankbarkeits-Zitat im Feed-Text 190.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/204878-ausgabe-190-eine-tiefe-sehnsucht-warum-wir-glauben-wollen.transcript.txt?v=2>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Precht als dozierender Besserwisser: „Lanz gibt die Stichworte, Precht hält Vorlesung.“** (fremdwahrnehmung, plausibel)
+  - Prüfung: Die NZZ antwortete mit HTTP 402, der Wortlaut „Ministrant und Chorknabe“ ist daher ungeprüft, also verbatim=false. Übermedien, taz, Jüdische Allgemeine, Wikipedia und Transkript 216 (Milestone Award) habe ich selbst geprüft.
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+  - <https://taz.de/Podcast-Auftritt-von-Toni-Kroos/!6019361/>
+  - <https://www.juedische-allgemeine.de/meinung/irgendwie-so-bombt-man-sich-das-ganze-am-ende-zurecht/>
+  - <https://de.wikipedia.org/wiki/Lanz_+_Precht>
+  - <https://www.nzz.ch/feuilleton/markus-lanz-und-richard-david-precht-ueben-sich-im-podcasten-ld.1645659>
+- **Parodie-Podcast „Richard, wo erreiche ich Dich?“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Apple, Acast-Feed (Beschreibung und Titel), Wikipedia und Transkript 261 habe ich geprüft. Die Rubriknamen („Richard meint …“ usw.) habe ich im Feed nicht gefunden und deshalb gestrichen.
+  - <https://podcasts.apple.com/de/podcast/richard-wo-erreiche-ich-dich/id1684909887>
+  - <https://feeds.acast.com/public/shows/64e608938fade000120ad85c>
+  - <https://de.wikipedia.org/wiki/Lanz_+_Precht>
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/253221-261-afd-auf-dem-weg-zur-blauen-hegemonie.transcript.txt?v=2>
+- **Die Aussage über ultraorthodoxe Juden in Ausgabe 110 (Oktober 2023) und alles, was antisemitische Klischees berührt.** (meiden, bestätigt)
+  - Prüfung: Die Feed-Texte zu 110 (Redaktionsnotiz) und 111 („sachlich falsch“), Tagesspiegel („wirklich verletzt“, Lanz), t-online (Zitat und Datum) und Wikipedia (Leuphana) habe ich alle geöffnet und geprüft.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+  - <https://www.tagesspiegel.de/kultur/neuer-podcast-von-lanz-und-precht-das-hat-mich-wirklich-verletzt-10644082.html>
+  - <https://www.t-online.de/unterhaltung/stars/id_100266146/richard-david-precht-ueber-eklat-ein-podcast-ist-keine-presseerklaerung-.html>
+  - <https://de.wikipedia.org/wiki/Lanz_+_Precht>
+  - <https://www.juedische-allgemeine.de/meinung/irgendwie-so-bombt-man-sich-das-ganze-am-ende-zurecht/>
+- **Wir dekorieren die Stühle auf der Titanic, anstatt eine neue Arche Noah zu bauen** (redewendung, bestätigt)
+  - Prüfung: Der Satz steht im Feed-Text zu Ausgabe 213 wörtlich und ist Precht zugeschrieben.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **wir Heimwerker des eigenen Glaubens geworden sind und jeder im Hobbykeller seines Bewusstseins rumbastelt** (redewendung, bestätigt)
+  - Prüfung: Der Wortlaut steht im Feed-Text 136 (Precht zugeschrieben), das Motiv wiederholt sich im Feed-Text 190.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/feed.rss>
+- **Ich bin auch zum Beispiel ein Fan von Schuluniformen.** (these, bestätigt)
+  - Prüfung: Die Passage steht wörtlich im Transkript 269, der Sprecher ist aus dem Verlauf eindeutig Precht. Den Acast-Titel habe ich im Feed gefunden.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/257584-269-krawalle-in-frankreich-demokratie-am-abgrund.transcript.txt?v=2>
+  - <https://feeds.acast.com/public/shows/64e608938fade000120ad85c>
+- **Also es gibt mich ja nur in den beiden Extremzuständen.** (anekdote, bestätigt)
+  - Prüfung: Der Wortlaut steht im Transkript 253, das Feed-Datum ist der 10.07.2026.
+  - <https://cdn.julephosting.de/podcasts/1355-lanz-precht/249003-253-ist-der-ki-hype-am-ende.transcript.txt?v=2>
+
+## Rhetorik und Sprechweise
+
+- **„Richard, wo erreiche ich dich?“ (in der Sendung auch als „Wo erreiche ich dich, Richard?“ zitiert)** (ritual, bestätigt)
+  - Prüfung: Wikipedia nennt den Podcasttitel „Anspielung auf die übliche Begrüßung Prechts durch Lanz zu Beginn jeder Folge“ und das Startdatum 03.09.2021. Die Jüdische Allgemeine zitiert »Wo erreiche ich dich, Richard?« und schreibt: „Er sitze wie immer in seiner Kemenate, seinem Rückzugsort, antwortet …
+  - <https://de.wikipedia.org/wiki/Lanz_+_Precht>
+  - <https://www.juedische-allgemeine.de/meinung/irgendwie-so-bombt-man-sich-das-ganze-am-ende-zurecht/>
+  - <https://shows.acast.com/richard-wo-erreiche-ich-dich>
+- **„Meine Vermutung ist …“ / „Ich denke …“, danach ein Satz im Futur I, der so klingt, als stünde es schon fest** (redewendung, bestätigt)
+  - Prüfung: 54books wörtlich: „Obwohl Precht seine Redebeiträge öfters mit ‚meine Vermutung ist‘ oder ‚ich denke‘ einleitet, gleitet er jedes Mal beinahe unbemerkt in Aussagen im Futur I, die Dinge werden so kommen“.
+  - <https://54books.de/virale-welterklaerer-die-rhetorik-von-richard-david-precht-und-serdar-somuncu/>
+- **„Ich halte es für denkbar, dass …“ (Signalwort: denkbar)** (redewendung, plausibel)
+  - Prüfung: texte-zur-sache wörtlich: „Richard David Precht hält es in einem Interview mit der NZZ für denkbar, dass Alice Weidel in drei Jahren Kanzlerin ist.“ Das ist indirekte Rede, den Originalwortlaut in der NZZ habe ich nicht geprüft.
+  - <https://texte-zur-sache.de/henning-hirsch-bei-hank-im-wohnzimmer/prechts-welt-kaffeesatz-statt-analyse/>
+- **„Denn was ist das ständige Streben danach, gesehen und anerkannt zu werden, anderes als eine typisch kindliche Eigenschaft?“** (denkfigur, bestätigt)
+  - Prüfung: Der Hauptsatz steht wörtlich im Wikipedia-Artikel „Angststillstand“, nicht in der Leseprobe. Die beiden Parallelstellen stehen wörtlich in der Leseprobe, die ich heruntergeladen und als Text ausgelesen habe.
+  - <https://de.wikipedia.org/wiki/Angststillstand>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„Also alles gut und kein Grund zur Sorge? Keineswegs.“** (redewendung, bestätigt)
+  - Prüfung: Steht wörtlich in der Leseprobe (Textextraktion, Zeile 225).
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„Kein Wunder, dass …“ und „Man denke nur an …“** (redewendung, bestätigt)
+  - Prüfung: „Kein Wunder, dass“ steht dreimal und „Man denke … nur an“ zweimal wörtlich in der Leseprobe, mit den zitierten Fortsetzungen.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„… wäre es ein hochinteressantes Phänomen, das zwingend analysiert werden muss.“ / „Vielmehr, und das ist das Bestürzende, …“ / „Und das ist fast schon skandalös.“** (redewendung, bestätigt)
+  - Prüfung: Alle drei Formulierungen stehen wörtlich in der Leseprobe, u. a. „wäre es ein hochinteressantes Phänomen, das zwingend analysiert werden muss“ und „Und das ist fast schon skandalös.“
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„So geht es nicht um Schuldzuweisungen, sondern um Mustererkennung.“** (denkfigur, bestätigt)
+  - Prüfung: Steht wörtlich in der Leseprobe, direkt vor „Welche Strukturen bewirken, dass Deutschland zwar eine große Meinungsfreiheit … hat?“
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„Je höher der Gerechtigkeitsanspruch einer Gesellschaft, desto größer der Neid.“** (denkfigur, bestätigt)
+  - Prüfung: taz 28.06.2013 wörtlich: „Je höher der Gerechtigkeitsanspruch einer Gesellschaft, desto größer der Neid.“ philomag 29.10.2026 wörtlich: „Je stärker das Verstehen erleichtert wird, umso weniger findet es statt.“ In der Leseprobe ist der Je-umso-Satz ausdrücklich Traunmüller zugeschrieben.
+  - <https://taz.de/Philosophie-fuer-alle/!5064404/>
+  - <https://www.philomag.de/artikel/richard-david-precht-der-lange-weg-zwischen-frage-und-antwort-ist-eine-stetige-arbeit>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„Wir befinden uns im größten Umbruch seit der industriellen Revolution vor 250 Jahren.“** (denkfigur, bestätigt)
+  - Prüfung: Handwerksblatt (17.09.2019) bringt alle drei Sätze wörtlich. cash-online bringt das DKM-Zitat wörtlich, mit dem Zusatz „und deren Einfluss für immer bleiben wird“. profil nennt Bismarck und die Maschinenstürmer, Blick nennt Kinderarbeit und Rauchverbot.
+  - <https://www.handwerksblatt.de/betriebsfuehrung/handwerk-ist-imagesieger-der-digitalisierung>
+  - <https://www.cash-online.de/a/precht-digitalisierung-ist-die-einzige-revolution-die-unumkehrbar-ist-442986/>
+  - <https://www.profil.at/wirtschaft/philosoph-precht-mehr-sozialismus-kapitalismus-10054937>
+  - <https://www.blick.ch/life/philosoph-richard-david-precht-niemand-braucht-diesen-hyperkonsumwahnsinn-id16964717.html>
+- **„Schon die antiken Griechen und Römer legten großen Wert darauf, Meinungsfreiheit nicht mit Zügellosigkeit zu verwechseln.“** (denkfigur, bestätigt)
+  - Prüfung: Satz, Begriffspaar und der Satz zu den Primaten stehen wörtlich in der Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **„Es ist das Logischste der Welt, dass die Menschen weniger arbeiten werden.“** (these, bestätigt)
+  - Prüfung: profil (03.05.2018) bringt den Satz wörtlich, ebenso das 40-Cent-Beispiel zur Finanztransaktionssteuer. Laut cash-online forderte Precht auf der DKM 2018 ein Grundeinkommen über die Finanztransaktionssteuer.
+  - <https://www.profil.at/wirtschaft/philosoph-precht-mehr-sozialismus-kapitalismus-10054937>
+  - <https://www.cash-online.de/a/precht-digitalisierung-ist-die-einzige-revolution-die-unumkehrbar-ist-442986/>
+- **„Jäger, Hirten, Kritiker“: das Marx-Engels-Bild vom Menschen, der morgens jagt, nachmittags fischt, abends Viehzucht treibt und nach dem Essen kritisiert** (referenz, bestätigt)
+  - Prüfung: Die Wikipedia-Rohfassung des Buchartikels nennt Goldmann 2018 und den Bezug auf Karl Marx. Die Zeit-Rezension wird dort mit „mit einem geflügelten Marx-Wort, exakt zum 200. Geburtstag“ zitiert. Den Satz aus dem Interview hat sinndeslebens24 wörtlich. Die Amazon-Quelle war nicht abrufbar (503) …
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+  - <https://www.sinndeslebens24.de/interview-mit-richard-david-precht-jaeger-hirten-kritiker-eine-utopie-fuer-die-digitale-gesellschaft>
+- **„Ich stehe manchmal so wie ein Feldherr auf dem Hügel, habe da mein Fernrohr, gucke da vom Weitem auf die Schlacht und schaue mir das Treiben aus dem Himmel an.“** (anekdote, bestätigt)
+  - Prüfung: Übermedien zitiert den Satz wörtlich. Ich habe ihn um den Schluss „und schaue mir das Treiben aus dem Himmel an“ ergänzt, die Einordnung „entrückten Philosophen“ ist ebenfalls wörtlich.
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+- **„Ich würde mich als Grenzgänger bezeichnen. Ich rechne mich aber auf keinen Fall dem Lager der philosophischen Ratgeber zu.“** (redewendung, bestätigt)
+  - Prüfung: Beide Zitate stehen wörtlich in den jeweiligen Quellen. evangelisch.de ist auf den 01.09.2012 datiert.
+  - <http://www.evangelisch.de/inhalte/7067/01-09-2012/philosophie-fuers-volk-precht-im-zdf>
+  - <https://www.evidero.de/richard-david-precht-im-interview>
+- **„Insofern habe ich eine Art ‚Carte Blanche‘ und kann tatsächlich sagen, was ich denke.“** (redewendung, bestätigt)
+  - Prüfung: evidero: Der Satz steht dort Zeichen für Zeichen, ein Datum fehlt. Tagesspiegel: Die Überschrift vom 11.09.2022 ist belegt, der Interviewtext steckt hinter einer Paywall.
+  - <https://www.evidero.de/richard-david-precht-im-interview>
+  - <https://www.tagesspiegel.de/gesellschaft/medien/zehn-jahre-talkshow-precht-ich-bin-meinem-gewissen-verantwortlich-8628685.html>
+- **„Vieles, was später Prognose oder These genannt wurde, waren einfach nur schnelle Vermutungen als Antworten auf Fragen, die mir gestellt wurden.“** (redewendung, bestätigt)
+  - Prüfung: Der Satz steht wörtlich im Weser-Kurier vom 17.10.2026. Ich habe ihn um „die mir gestellt wurden“ ergänzt.
+  - <https://www.weser-kurier.de/kultur/zu-geisterhaft-precht-glaubt-nicht-an-ki-weltuntergang-2027-doc880z0xfwcea1ksud5b30>
+- **„Wir irren vorwärts.“ (Robert Musil)** (referenz, bestätigt)
+  - Prüfung: evangelisch.de und nw.de bringen „Wir irren vorwärts“ als prägenden Musil-Satz, nw.de außerdem die Formel „Schriftsteller, Ingenieur und Philosoph in einer Person“ und die Promotion. Wikipedia nennt das Musil-Motto. evangelisch.de enthält das Kierkegaard-Zitat ausdrücklich nicht, und Wikipedia …
+  - <http://www.evangelisch.de/inhalte/7067/01-09-2012/philosophie-fuers-volk-precht-im-zdf>
+  - <https://www.nw.de/nachrichten/kultur/kultur/6991106_Richard-David-Precht-erzaehlt-warum-Gruebeln-nicht-unbedingt-gluecklich-macht.html>
+  - <https://de.wikipedia.org/wiki/Precht_(Talkshow)>
+- **„Intelligenz ist nach einer Definition von Jean Piaget das, was man einsetzt, wenn man nicht weiß, was man tun soll.“** (referenz, bestätigt)
+  - Prüfung: t3n (25.09.2020) zitiert den Satz wörtlich.
+  - <https://t3n.de/magazin/precht-im-interview-ewiges-leben-249667/>
+- **„Wir sind keine defizitären Rechner, sondern empfindsame, verletzliche und resonanzbedürftige Wesen, die sich ihr Leben erzählen, um es mit Sinn auszustatten.“** (these, bestätigt)
+  - Prüfung: lesering zitiert den Satz wörtlich als Aussage im Gespräch mit Deutschlandfunk Kultur. Bei t3n ist der Silizium-Satz ein wörtliches Precht-Zitat, der Hirngespinste-Satz dagegen Redaktionstext.
+  - <https://www.lesering.de/id/11259/Die-Grenzen-der-Kunstlichen-Intelligenz/>
+  - <https://t3n.de/magazin/precht-im-interview-ewiges-leben-249667/>
+- **„kulturelle Demenz“, aus „Auserzählt? Wie künstliche Intelligenz die Kultur abschafft“ (Goldmann, Oktober 2026)** (buch, bestätigt)
+  - Prüfung: Philosophie Magazin (29.10.2026) bringt „kulturelle Demenz“, den Wissen/Reisen-Satz und „zweckfreie Lust daran, zu gestalten und weiterzudenken“. lesering bestätigt Titel, Verlag und die Unterscheidung zurechtfinden/wiederfinden. Das genaue Erscheinungsdatum habe ich nicht gesichert. Laut …
+  - <https://www.lesering.de/id/4952513/richard-david-precht-auserzaehlt-kultur-ki/>
+  - <https://www.philomag.de/artikel/richard-david-precht-der-lange-weg-zwischen-frage-und-antwort-ist-eine-stetige-arbeit>
+  - <https://www.weser-kurier.de/kultur/zu-geisterhaft-precht-glaubt-nicht-an-ki-weltuntergang-2027-doc880z0xfwcea1ksud5b30>
+- **„Sie benehmen sich nicht wie Staatsbürger, sondern sie werden zu Kunden“ – „Wenn das passiert, dann bröckelt unser Gemeinwesen.“** (these, bestätigt)
+  - Prüfung: t-online (26.03.2021) zitiert beide Sätze wörtlich, ebenso „politischen Schnäppchenjägern“ und das Pflichtjahr. Die lesering-Seite habe ich nicht eigens geöffnet.
+  - <https://www.t-online.de/nachrichten/deutschland/id_89731566/precht-bei-markus-lanz-corona-leugner-arbeiten-selten-auf-intensivstationen-.html>
+  - <https://www.lesering.de/id/4901668/Wenn-der-Burger-Kunde-wird/>
+- **„Wir brauchen keine weitere Bildungsreform, wir brauchen eine Bildungsrevolution!“ (gegen das „Bulimie-Lernen“)** (these, bestätigt)
+  - Prüfung: Cicero-Gastbeitrag von Precht, wörtlich: „Die Folge ist das, was der Bildungsexperte Reinhard Kahl als ‚Bulimie-Lernen‘ bezeichnet …“ und „Wir brauchen keine weitere Bildungsreform, wir brauchen eine Bildungsrevolution!“ Wikipedia belegt die Forderung nach einer „Bildungsrevolution“ in „Anna“ …
+  - <https://www.cicero.de/kultur/wir-brauchen-eine-bildungsrevolution/51963>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Man kann die Schule unterteilen in Lernhäuser. Gryffindor, Slytherin und so weiter, die gegeneinander antreten.“** (these, bestätigt)
+  - Prüfung: Der Satz steht wörtlich bei Yahoo/teleschau (30.10.2026). Dazu passt der Titel der Parodie-Folge 269 „Harry Precht und die Uniform des Schreckens“ (Acast, 31.10.2026).
+  - <https://de.nachrichten.yahoo.com/gryffindor-slytherin-so-richard-david-124645780.html>
+- **„Axolotlisierung“ – „Wie wir immer authentischer und zugleich infantiler werden“ (aus „Angststillstand“, 2025)** (buch, bestätigt)
+  - Prüfung: Das Inhaltsverzeichnis der Leseprobe nennt wörtlich „IV. Axolotlisierung … Wie wir immer authentischer und zugleich infantiler werden“ sowie alle weiteren Kapitelbegriffe. news.at bringt das Zitat wörtlich. Wikipedia belegt „kulturelle Neotenie“.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+  - <https://www.news.at/menschen/richard-david-precht-interview-2025>
+  - <https://de.wikipedia.org/wiki/Angststillstand>
+- **„Cursor-Journalismus“, „Gala-Publizistik“, „Stock-market-Publizistik“: Wortschöpfungen aus „Die vierte Gewalt“ (2022, mit Harald Welzer)** (buch, bestätigt)
+  - Prüfung: Medienwoche nennt alle drei Begriffe, „neue Wortmünzen prägen“ und den Wechsel von Selbstgleichschaltung zu Selbstangleichung. Die Wikipedia-Rohfassung schreibt „Vollzugsorgane“ dem Verlagsbegleittext zu.
+  - <https://medienwoche.ch/2022/09/29/medienkritik-nach-precht-und-welzer-skandalisierung-als-verkaufsmotor/>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Es gibt zwei Kategorien von Tieren. Die eine glaubt, dass es zwei Kategorien von Tieren gibt, und die andere hat darunter zu leiden.“** (these, bestätigt)
+  - Prüfung: Wikipedia zitiert den Satz wörtlich und nennt 2016 und „Noahs Erbe“ (1997).
+  - <https://de.wikipedia.org/wiki/Tiere_denken>
+- **„Wer bin ich – und wenn ja, wie viele?“: Der Titel soll auf einen betrunkenen Freund zurückgehen** (anekdote, plausibel)
+  - Prüfung: Die Wikipedia-Rohfassung belegt die 16 Wochen auf Platz 1 (2008), dieterwunderlich die Kant-Gliederung. Den betrunkenen Freund nennt nur der Blog djlensing, und der wirkt ausgeschmückt. dieterwunderlich und Wikipedia erwähnen ihn nicht, ein Precht-Originalzitat dazu habe ich nicht gefunden.
+  - <https://djlensing.de/blog/wer-bin-ich-und-wenn-ja-wie-viele>
+  - <https://www.dieterwunderlich.de/Precht_wer_bin_ich.htm>
+  - <https://de.wikipedia.org/wiki/Wer_bin_ich_%E2%80%93_und_wenn_ja,_wie_viele%3F>
+- **Kindheit in Solingen: keine Coca-Cola, kein Ketchup, kein Phantasialand, der Fernseher als „Verdummungsmaschine“, zwei vietnamesische Adoptivgeschwister** (anekdote, bestätigt)
+  - Prüfung: Den Phantasialand-Satz bringt die taz (Barbara Schweizerhof, 05.06.2008) wörtlich. literaturzeitschrift.de hat „Naturfreunden, Spontis und DKP-Kommunisten“, „amerikanischen Schatten“ und „Verdummungsmaschine“. Wikipedia nennt vier Geschwister, darunter zwei vietnamesische Adoptivkinder (1969/1972).
+  - <https://taz.de/!5181118/>
+  - <https://literaturzeitschrift.de/book-review/review39/>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Von Deutschen wird nur jene geistige Leistung wirklich bewundert, die man nicht ganz versteht“ – „Weil man sich sonst sagt: Das kann ich ja auch.“** (these, bestätigt)
+  - Prüfung: Beide Sätze stehen wörtlich in der taz vom 28.06.2013, die Hochschulstudium-Formel steht wörtlich bei evangelisch.de.
+  - <https://taz.de/Philosophie-fuer-alle/!5064404/>
+  - <http://www.evangelisch.de/inhalte/7067/01-09-2012/philosophie-fuers-volk-precht-im-zdf>
+- **„Niemand braucht diesen Hyperkonsumwahnsinn.“** (redewendung, bestätigt)
+  - Prüfung: Im Blick steht der Satz wörtlich im Schlusswort, im Titel als „Hyperkonsum-Wahnsinn“. Der Satz zu Verboten und die Beispiele Rauchverbot und Kinderarbeit sind ebenfalls belegt.
+  - <https://www.blick.ch/life/philosoph-richard-david-precht-niemand-braucht-diesen-hyperkonsumwahnsinn-id16964717.html>
+- **„Eine Demokratie, in der nicht gestritten wird“, meinte einst Helmut Schmidt, „ist keine.“** (referenz, bestätigt)
+  - Prüfung: Steht wörtlich in der Leseprobe, mit Fußnote 7.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-30231-4.pdf>
+- **Sonore, tiefe Stimme, „wohlgesetzte Pausen“, die große Geste „mit einer pointierten Eleganz“, ruhig-kontrollierte Sprechweise** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Alle Teilzitate stehen wörtlich bei 54books (Sahner, 12.07.2022), die Gesamtbeschreibung ist zusammengefasst.
+  - <https://54books.de/virale-welterklaerer-die-rhetorik-von-richard-david-precht-und-serdar-somuncu/>
+- **„Erst kommt die laute These, manchmal schiebt er dann Argumente und Differenzierung nach, manchmal auch nicht“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Alle Sätze stehen wörtlich bei Übermedien (10.10.2021).
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+- **„Prechts Entwürfe von Zukunft und seine Visionen gründen auf Gedankenkonstrukten, die im Labor unter Idealbedingungen oder eben im Sandkasten entworfen werden“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Der vollständige Satz mit „und seine Visionen“ und die Nassehi-Zuschreibung sind wörtlich belegt. Das Zitat in der Vorlage ließ „und seine Visionen“ aus, ich habe es korrigiert. Die Urheberschaft liegt bei 54books, GWUP gibt sie nur in Kommentar Nr. 7 wieder.
+  - <https://54books.de/virale-welterklaerer-die-rhetorik-von-richard-david-precht-und-serdar-somuncu/>
+  - <https://blog.gwup.net/2022/07/08/verschwoerung-fakten-ueber-precht-schwurbel-philosoph/>
+- **„Prechtln“: „Die Türen, die dieser Philosoph eintritt, stehen immer schon sperrangelweit offen, deshalb knallt er sie in seinen Texten auch besonders laut zu.“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Alle Zitate stehen wörtlich dort. Autor ist Fleischhauer, der Text ist ein Buchauszug, Datum 21.11.2020. Belegt ist die Schreibweise „prechtln/prechtlt“, nicht „Prechteln“.
+  - <https://www.tichyseinblick.de/feuilleton/buecher/ueber-richard-david-precht-und-die-kunst-des-prechtlns/>
+- **„Phänotypisch ist Precht eine Mischung aus Novalis und ‚Tatort‘-Kommissar, intellektuell sieht es ähnlich aus, mit einer starken Tendenz zum Ermittler.“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Den vollständigen Satz bringt der taz-Popblog wörtlich als SZ-Streiflicht-Zitat, ebenso die Sloterdijk-Passage samt Zuordnung zu Precht.
+  - <https://blogs.taz.de/popblog/2023/05/10/schmaehkritik-705-richard-david-precht/>
+- **Etiketten: „Bürgerphilosoph“ (Zeit 2011), „mediale Allzweckwaffe“ (Spiegel), „redegewandter ‚Dressman‘“ (taz 2012), „Popstar Precht“ (taz-Titel 2013), „Super Performer“ (Wolfram Eilenberger laut Freitag 2022)** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Wikipedia (Rohtext) belegt „Bürgerphilosophen“ (Ursula März, Zeit, 05.01.2011) und „mediale Allzweckwaffe“ (Spiegel, Thomas Tuma). Die taz vom 02.09.2012 hat „redegewandter ‚Dressman‘“. Freitag (12.10.2022): „Precht, den Eilenberger für einen ‚Super Performer‘ hält“. Bei Ruhrbarone ist …
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://taz.de/Precht-im-ZDF/!5085103/>
+  - <https://taz.de/Philosophie-fuer-alle/!5064404/>
+  - <https://www.freitag.de/autoren/michael-angele/das-problem-mit-richard-david-precht>
+- **„Wer ist King of Stress / wäre gern Deutschlands Sokrates / Denkt er hat immer Recht, NEIN! / Richard David Precht“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Musikexpress zitiert den Liedtext wörtlich, einschließlich aller genannten Zeilen, Datum 14.10.2022.
+  - <https://www.musikexpress.de/rap-diss-so-macht-sich-carolin-kebekus-ueber-richard-david-precht-lustig-2204093/>
+- **Die Antisemitismus-Kontroverse vom Oktober 2023 (Aussage über orthodoxe Juden im Podcast) und alles, was daran anknüpft** (meiden, bestätigt)
+  - Prüfung: Wikipedia belegt die Aussage, die Entfernung durch das ZDF und die aufgegebene Leuphana-Professur. Laut Übermedien stammt „salopp dahergeredet“ von Precht selbst, die Korrektur dazu ist vom 21.10.2023. Der Postillon-Text ist Satire. „Prechthaber“ steht nicht im zitierten Artikel vom 11.03.2026, …
+  - <https://de.wikipedia.org/wiki/Lanz_+_Precht>
+  - <https://uebermedien.de/89150/lanz-und-precht-salopp-daherreden-im-nachrichtenkanal-des-zdf/>
+  - <https://www.der-postillon.com/2023/10/precht-entschuldigung.html>
+  - <https://www.juedische-allgemeine.de/meinung/irgendwie-so-bombt-man-sich-das-ganze-am-ende-zurecht/>
+- **Persönliche Abwertungen, polarisierende Tagespolitik und Vermutungen, die als Fakten auftreten** (meiden, bestätigt)
+  - Prüfung: Die Baerbock-Zitate stehen wörtlich bei t-online (26.04.2023). Übermedien 2021 bringt das Gender-Zitat wörtlich. Reisin (09.08.2023) kritisiert NATO-Doppelbeschluss, AfD und Landrat, nicht Ukraine oder Corona. Die Formel „unbelegte Meinungen … als Fakten verkauft“ stammt von 54books, zitiert im …
+  - <https://www.t-online.de/digital/aktuelles/id_100166082/das-precht-problem-nicole-diekmann-ueber-das-fragile-ego-des-welterklaerers.html>
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+  - <https://uebermedien.de/86998/wie-lanz-und-precht-sich-selbst-entzaubern/>
+  - <https://54books.de/virale-welterklaerer-die-rhetorik-von-richard-david-precht-und-serdar-somuncu/>
+- **„Der lange Weg zwischen Frage und Antwort ist eine stetige Arbeit an sich selbst.“** (these, bestätigt)
+  - Prüfung: Der Interviewtitel (URL) lautet „der lange Weg zwischen Frage und Antwort ist eine stetige Arbeit“, im Text steht der Satz mit dem Zusatz „an sich selbst“.
+  - <https://www.philomag.de/artikel/richard-david-precht-der-lange-weg-zwischen-frage-und-antwort-ist-eine-stetige-arbeit>
+- **„Die positive Erfahrung, etwas für Andere zu tun, kann man nur praktisch vermitteln.“** (these, bestätigt)
+  - Prüfung: t-online (26.03.2021) zitiert den Satz wörtlich als Precht-Aussage.
+  - <https://www.t-online.de/nachrichten/deutschland/id_89731566/precht-bei-markus-lanz-corona-leugner-arbeiten-selten-auf-intensivstationen-.html>
+- **„Wir haben Angst vor der Digitalisierung, weil wir wahnsinnig viel zu verlieren haben.“** (redewendung, bestätigt)
+  - Prüfung: cash-online gibt den Satz wörtlich als Precht-Zitat von der DKM 2018 wieder.
+  - <https://www.cash-online.de/a/precht-digitalisierung-ist-die-einzige-revolution-die-unumkehrbar-ist-442986/>
+
+## Werk und Thesen
+
+- **Die gleitende Logik der Seele. Ästhetische Selbstreflexivität in Robert Musils „Der Mann ohne Eigenschaften“ (Dissertation)** (buch, bestätigt)
+  - Prüfung: Die Werkliste der Wikipedia nennt „M & P, Stuttgart 1996 (Zugl.: Köln, Univ., Diss., 1994)“. Der DNB-Datensatz von 1996 bestätigt Titel und Verlag.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22&recordSchema=oai_dc&maximumRecords=100>
+- **Noahs Erbe. Vom Recht der Tiere und den Grenzen des Menschen** (buch, bestätigt)
+  - Prüfung: Die DNB führt „Rotbuch-Verl. 1997“ und „Rowohlt-Taschenbuch 2000“. Wikipedia bestätigt die „Ethik des Nichtwissens“ und die Überarbeitung als „Tiere denken“ (2016).
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://de.wikipedia.org/wiki/Tiere_denken>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22&recordSchema=oai_dc&maximumRecords=100>
+- **Lenin kam nur bis Lüdenscheid. Meine kleine deutsche Revolution (autobiografisch)** (buch, bestätigt)
+  - Prüfung: Die DNB führt Claassen 2005, List 2007 und Ullstein 2011. Wikipedia belegt Inhalt, Adoptivkinder und die Filmnominierung 2009. Dass die Ullstein-Ausgabe „erweitert“ ist und es eine Goldmann-Ausgabe gibt, ließ sich nicht belegen, daher habe ich beides gestrichen.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.perlentaucher.de/autor/richard-david-precht.html>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22&recordSchema=oai_dc&maximumRecords=100>
+- **Wer bin ich – und wenn ja, wie viele? Eine philosophische Reise** (buch, bestätigt)
+  - Prüfung: Wikipedia belegt die 34 Kapitel, Heidenreich/„Lesen!“, Februar 2008 bis Oktober 2012 und die Million in 32 Sprachen. Die DNB führt für 2024 die erweiterte Neuausgabe und die Graphic Novel (Precht, Martin Möller, Jörg Hartmann [Künstler]).
+  - <https://de.wikipedia.org/wiki/Wer_bin_ich_%E2%80%93_und_wenn_ja,_wie_viele%3F>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22%20and%20jhr%3E%3D2024&recordSchema=oai_dc&maximumRecords=100>
+- **Liebe. Ein unordentliches Gefühl** (buch, bestätigt)
+  - Prüfung: Der Wikipedia-Buchartikel nennt 2009, die Hauptthese und die Liste März bis Dezember 2009. Die DNB führt Goldmann 2009 und 2010.
+  - <https://de.wikipedia.org/wiki/Liebe:_Ein_unordentliches_Gef%C3%BChl>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22&recordSchema=oai_dc&maximumRecords=100>
+- **Die Kunst, kein Egoist zu sein. Warum wir gerne gut sein wollen und was uns davon abhält** (buch, bestätigt)
+  - Prüfung: Wikipedia zitiert „wie Menschen tatsächlich moralisch funktionieren“, die Rollen-These und „mehr Verantwortung von oben und von unten“. Die Rezension auf prozukunft.org bestätigt die dreiteilige Gliederung und die direkte Demokratie.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.prozukunft.org/buecher/die-kunst-kein-egoist-zu-sein>
+- **Warum gibt es alles und nicht nichts? Ein Ausflug in die Philosophie (Kinder-/Jugendbuch)** (buch, bestätigt)
+  - Prüfung: Der Wikipedia-Artikel belegt Jahr, Verlag, Sohn Oskar, die Orte und die Fragen. Dass das Buch in viele Sprachen übersetzt ist, war nicht belegbar, daher gestrichen.
+  - <https://de.wikipedia.org/wiki/Warum_gibt_es_alles_und_nicht_nichts%3F>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Anna, die Schule und der liebe Gott. Der Verrat des Bildungssystems an unseren Kindern** (buch, bestätigt)
+  - Prüfung: Wikipedia belegt die Bildungsrevolution, die 45-Minuten-Stunde, das OECD-Zitat (S. 15) und die „überwiegend kritische Aufnahme“. Die Angabe „Mai 2013 Platz 1 Spiegel-Liste“ fand ich nicht belegt und habe sie gestrichen.
+  - <https://de.wikipedia.org/wiki/Anna,_die_Schule_und_der_liebe_Gott>
+- **Erkenne die Welt. Eine Geschichte der Philosophie 1 (Antike und Mittelalter)** (buch, bestätigt)
+  - Prüfung: Wikipedia: „2015 erschien Erkenne die Welt, der erste Band einer zunächst auf drei, dann auf vier Bände angelegten Geschichte der Philosophie … ‚philosophierende Philosophiegeschichte‘“.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.perlentaucher.de/autor/richard-david-precht.html>
+- **Tiere denken. Vom Recht der Tiere und den Grenzen des Menschen** (buch, bestätigt)
+  - Prüfung: Der Wikipedia-Artikel „Tiere denken“ belegt die vier Teile, die Kernthesen, das Laborfleisch und die Zoos. Der Preis steht im Precht-Artikel („2017: PETA Progress Award für ‚Tiere denken‘“). Pelztierfarmen werden dort nicht genannt, daher gestrichen.
+  - <https://de.wikipedia.org/wiki/Tiere_denken>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Erkenne dich selbst. Eine Geschichte der Philosophie 2 (Renaissance bis Deutscher Idealismus)** (buch, bestätigt)
+  - Prüfung: Wikipedia: „Der zweite Band, Erkenne dich selbst, erschien im Herbst 2017“, ISBN 978-3-442-31367-9. Die genauen Jahresgrenzen (1450 bis 1830) habe ich nicht separat geprüft und deshalb weggelassen.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Jäger, Hirten, Kritiker. Eine Utopie für die digitale Gesellschaft** (buch, bestätigt)
+  - Prüfung: Wikipedia: „Grundeinkommen von 1500 Euro“, die drei Szenarien und die Zeit-Rezension („exakt zum 200. Geburtstag“). Die Marx-Anspielung ist Allgemeinwissen. Die digitale Infrastruktur ist als staatliches, kostenloses Angebot belegt (S. 232/240).
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **Sei du selbst. Eine Geschichte der Philosophie 3 (Philosophie des 19. Jahrhunderts)** (buch, bestätigt)
+  - Prüfung: Wikipedia: dritter Band „zur Philosophie des 19. Jahrhunderts … im Herbst 2019“. Die Einleitung (Leseprobe) nennt Schopenhauer, Kierkegaard, Nietzsche, Simmel und Weber. „Sei du selbst“ stammt nicht wörtlich von Nietzsche, deshalb habe ich die Persona-Pointe auf „Werde, der du bist“ umgestellt.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.wlodarek.de/precht-geschichte-philosophie/>
+- **Künstliche Intelligenz und der Sinn des Lebens. Ein Essay** (buch, bestätigt)
+  - Prüfung: Der Wikipedia-Abschnitt „Künstliche Intelligenz“ belegt Juni 2020, Superintelligenz, Wille, Hochfrequenzhandel und Kirschfeld.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.getabstract.com/de/zusammenfassung/kuenstliche-intelligenz-und-der-sinn-des-lebens/40543>
+- **Von der Pflicht. Eine Betrachtung** (buch, bestätigt)
+  - Prüfung: Die Rezension auf theophil.online belegt Nietzsche, „Brennglas“ (S. 13), Foucault und die zwei Pflichtjahre. Dass „Kunden“ und BGE in diesem Buch vorkommen, belegt sie nicht, daher habe ich beides relativiert. Der Monat „März“ ist nur indirekt über das Interviewdatum gestützt.
+  - <https://www.theophil.online/gelesen/richard-david-precht-von-der-pflicht/>
+  - <https://www.finanznachrichten.de/nachrichten-2021-03/52404442-philosoph-precht-will-pflichtjahr-fuer-schulabgaenger-und-rentner-003.htm>
+- **Freiheit für alle. Das Ende der Arbeit wie wir sie kannten** (buch, bestätigt)
+  - Prüfung: Die HR-Manager-Rezension belegt 1.500 €, Bolz, Rente, Niedriglohnsektor und Revolution statt Feinjustierung. Wikipedia und DNB nennen Goldmann 2022. Den Monat „März“ konnte ich nicht belegen und habe ihn entfernt.
+  - <https://www.humanresourcesmanager.de/new-work-rezension-richard-david-precht-freiheit-fuer-alle-die-arbeit-ist-tot-es-lebe-der-sinn/>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Die vierte Gewalt. Wie Mehrheitsmeinung gemacht wird, auch wenn sie keine ist (mit Harald Welzer)** (buch, bestätigt)
+  - Prüfung: Wikipedia belegt die Kapiteltitel und die Otto-Brenner-Studie („stützte sie jedoch nur teilweise“). Die DNB führt die „Aktualisierte und erweiterte Ausgabe“ bei Goldmann 2024.
+  - <https://de.wikipedia.org/wiki/Die_vierte_Gewalt._Wie_Mehrheitsmeinung_gemacht_wird,_auch_wenn_sie_keine_ist>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22%20and%20jhr%3E%3D2024&recordSchema=oai_dc&maximumRecords=100>
+- **Mache die Welt. Eine Geschichte der Philosophie 4 (Die Philosophie der Moderne)** (buch, bestätigt)
+  - Prüfung: Der DNB-Datensatz zur ISBN 9783442315444 nennt „Mache die Welt: die Philosophie der Moderne“, Goldmann 2023. LovelyBooks nennt den 25.10.2023 und die Philosophenliste. Die Seitenzahl ist uneinheitlich (526 bzw. 528) und wurde deshalb weggelassen.
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=num%3D9783442315444&recordSchema=oai_dc>
+  - <https://www.lovelybooks.de/autor/Richard-David-Precht/Mache-die-Welt-2311298030-w/>
+- **Das Jahrhundert der Toleranz. Plädoyer für eine wertegeleitete Außenpolitik** (buch, bestätigt)
+  - Prüfung: Die Verlagsseite bestätigt den 30.05.2024 und die Klappentext-Kernpunkte. Die Cicero-Rezension gibt die Formel „Toleranz … oder … Katastrophe“ wieder.
+  - <https://www.penguin.de/buecher/richard-david-precht-das-jahrhundert-der-toleranz/buch/9783442316076>
+  - <https://www.cicero.de/kultur/das-politische-buch-thomas-geisel-liest-richard-david-precht>
+- **Angststillstand. Warum die Meinungsfreiheit schwindet** (buch, bestätigt)
+  - Prüfung: Der Wikipedia-Artikel belegt Oktober 2025, Goldmann, die Werte 83/45/40 %, Axolotisierung, Seerosen-Dilemma, Moralisierungsweltmeister, Doxa und Resilienz.
+  - <https://de.wikipedia.org/wiki/Angststillstand>
+  - <https://www.perlentaucher.de/buch/richard-david-precht/angststillstand.html>
+- **Auserzählt? Wie künstliche Intelligenz die Kultur abschafft** (buch, bestätigt)
+  - Prüfung: Penguin bestätigt 14.10.2026, 224 Seiten, beide Klappentext-Zitate und die Demenz des Vaters. Perlentaucher fasst den SZ-Verriss zusammen, itigefo belegt Kapitalismus und Schule, der Tagesspiegel das „berührende“ Abschiednehmen.
+  - <https://www.penguin.de/buecher/richard-david-precht-auserzaehlt-/buch/9783442302680>
+  - <https://www.perlentaucher.de/buch/richard-david-precht/auserzaehlt.html>
+  - <https://www.itigefo.de/2026/10/10/vom-vergessen-richard-david-prechts-auserzaehlt/>
+  - <https://www.tagesspiegel.de/kultur/richard-david-prechts-neues-buch-auserzahlt-der-pyromane-des-denkens-zundelt-wieder-fleissig-16143806.html>
+- **Romane: Das Schiff im Noor (1999, mit Bruder Georg Jonathan; 2009 neu als „Die Instrumente des Herrn Jørgensen“) und Die Kosmonauten (2003)** (buch, bestätigt)
+  - Prüfung: Die DNB führt „Das Schiff im Noor“ (Limes 1999), „Die Instrumente des Herrn Jørgensen“ (Goldmann 2009) und „Die Kosmonauten“ (KiWi 2003). Wikipedia belegt Mikkel Folket/Foucault, Krikaljow und „Baader braun“ 2004.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=per%3D%22Precht%2C%20Richard%20David%22&recordSchema=oai_dc&maximumRecords=100>
+- **„Der Zwang, monotone und demoralisierende Arbeit auszuüben, entfällt. Damit sind die materiellen Grundlagen für eine Gesellschaftsutopie geschaffen, die den Menschen als freies Individuum begreift.“** (these, bestätigt)
+  - Prüfung: Der Wortlaut steht im Wikipedia-Artikel mit Einzelnachweis „Jäger, Hirten, Kritiker. 2018, S. 149“.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Jede Tätigkeit, deren Routinen algorithmisierbar sind, ist prinzipiell ersetzbar.“** (these, bestätigt)
+  - Prüfung: Der Wortlaut steht im Wikipedia-Artikel zum Buch. Die Seitenzahl 24 und „IT-Experten“ sind dort nicht angegeben, daher habe ich die Berufsliste an den Artikel angepasst.
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **Nicht „Wie werden wir leben?“, sondern „Wie wollen wir leben?“** (denkfigur, bestätigt)
+  - Prüfung: Wikipedia: „Die sich stellende Grundfrage sei darum nicht: ‚Wie werden wir leben?‘ Sondern: ‚Wie wollen wir leben?‘ (S. 15)“.
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Dystopie, Retropie oder Utopie: drei mögliche Zukünfte der digitalen Gesellschaft** (denkfigur, bestätigt)
+  - Prüfung: Der Abschnitt „Dystopie, Retropie und Utopie der digitalen Revolution“ im Wikipedia-Artikel enthält alle zitierten Wendungen.
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **„Digitalisierung first – Bedenken second.“** (redewendung, bestätigt)
+  - Prüfung: Wikipedia: „Digitalisierung first – Bedenken second.“ (S. 84 f.).
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **„Gegen diese digitalen Supermächte sind Deutschlands Politiker strategische Pygmäen.“** (redewendung, bestätigt)
+  - Prüfung: Beide Zitate stehen wörtlich im Wikipedia-Artikel, das erste mit S. 52.
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **„Wer Kreativität will, muss das Gedächtnis trainieren.“** (redewendung, bestätigt)
+  - Prüfung: Wikipedia: „Wer Kreativität will, muss das Gedächtnis trainieren.“ (S. 171).
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **„KI hat einiges mit Intelligenz zu tun, aber kaum etwas mit Verstand und nicht entfernt mit Vernunft.“** (these, bestätigt)
+  - Prüfung: getAbstract führt den Satz ausdrücklich als Precht-Zitat. Wikipedia belegt das Situativ-Zitat und den Spiegel-Essay 48/2018.
+  - <https://www.getabstract.com/de/zusammenfassung/kuenstliche-intelligenz-und-der-sinn-des-lebens/40543>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Soziales Pflichtjahr, gleich zweimal: nach der Schule und beim Eintritt in die Rente** (these, bestätigt)
+  - Prüfung: dts/finanznachrichten belegt beide Zitate („sagte Precht dem ‚Spiegel‘“). seniorweb.ch belegt die rund 15 Wochenstunden. Die „Bringschuld“ steht bei Wikipedia im Kontext von „Die Kunst, kein Egoist zu sein“ (TB 2012) und nicht im Spiegel-Interview 2021, das Datum habe ich entsprechend korrigiert.
+  - <https://www.finanznachrichten.de/nachrichten-2021-03/52404442-philosoph-precht-will-pflichtjahr-fuer-schulabgaenger-und-rentner-003.htm>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://seniorweb.ch/2021/04/18/ein-soziales-pflichtjahr-fuer-pensionierte/>
+- **„Wer Kröten über die Straße hilft oder auf einer Kinderkrebsstation den kleinen Patienten vorliest, wird vielleicht ein ganz neuer Mensch.“** (redewendung, bestätigt)
+  - Prüfung: Der Wortlaut steht so in der dts-Meldung auf finanznachrichten.de.
+  - <https://www.finanznachrichten.de/nachrichten-2021-03/52404442-philosoph-precht-will-pflichtjahr-fuer-schulabgaenger-und-rentner-003.htm>
+- **Pflicht als „das Recht der anderen auf uns“ (Nietzsche) und Corona „wie ein Brennglas“** (referenz, bestätigt)
+  - Prüfung: theophil.online: „Nietzsche hat ihn einmal als ‚das Recht der anderen auf uns‘ beschrieben“ und „Sie erscheint, so Precht, ‚wie ein Brennglas‘ (S. 13)“.
+  - <https://www.theophil.online/gelesen/richard-david-precht-von-der-pflicht/>
+- **„Wir brauchen andere Lehrer, andere Methoden und ein ganz anderes Zusammenleben in der Schule.“** (these, bestätigt)
+  - Prüfung: Alle Wendungen stehen im Wikipedia-Abschnitt zum Bildungssystem, das Hauptzitat mit Cicero-Beleg.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Wir müssen wieder utopiefähig werden im Hinblick auf die Schule.“** (redewendung, bestätigt)
+  - Prüfung: Wikipedia zitiert den Satz mit Beleg Zeit 16/2013 und nennt die „gesellschaftliche Utopiefähigkeit“ im Kontext von „Jäger, Hirten, Kritiker“.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Es gibt zwei Kategorien von Tieren. Die eine glaubt, dass es zwei Kategorien von Tieren gibt, und die andere hat darunter zu leiden.“** (redewendung, bestätigt)
+  - Prüfung: Wikipedia: „Er formuliert das im Eröffnungssatz (dem bekanntesten Zitat aus dem Buch) so: …“, wortgleich.
+  - <https://de.wikipedia.org/wiki/Tiere_denken>
+- **„Ethik des Nichtwissens“** (denkfigur, bestätigt)
+  - Prüfung: Der Begriff steht in beiden Wikipedia-Artikeln, „richtig und gut“ im Precht-Artikel.
+  - <https://de.wikipedia.org/wiki/Tiere_denken>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Schreibe stets so, dass deine Meinung die Meinung der anderen Journalisten sein könnte.“** (redewendung, bestätigt)
+  - Prüfung: Wikipedia gibt beide Zitate mit Seitenzahlen wieder. Achtung: Das Buch ist ein Co-Autorenwerk mit Welzer.
+  - <https://de.wikipedia.org/wiki/Die_vierte_Gewalt._Wie_Mehrheitsmeinung_gemacht_wird,_auch_wenn_sie_keine_ist>
+- **„Die Grenzen der Meinungsfreiheit fangen also nicht erst bei der Zensur an, sondern bereits vorher bei der Selbstzensur.“** (these, bestätigt)
+  - Prüfung: Alle Zitate stehen wortgleich im Wikipedia-Artikel „Angststillstand“.
+  - <https://de.wikipedia.org/wiki/Angststillstand>
+- **Axolotisierung und Seerosen-Dilemma** (denkfigur, bestätigt)
+  - Prüfung: Wikipedia zitiert „…ein Leben lang im Larvenstadium…“ und „Wenn alle sich maximal entfalten…“ wortgleich. „Kippt“ habe ich zu „kippe“ korrigiert (indirekte Rede).
+  - <https://de.wikipedia.org/wiki/Angststillstand>
+- **„Bis in die feine Unterwäsche unseres Bewusstseins hat er unsere Staatsbürgerschaft gelöscht und uns zu Kunden, Konsumenten und Usern gemacht.“** (these, bestätigt)
+  - Prüfung: Beide Zitate stehen wortgleich in Wikipedia, belegt mit Die Zeit, 22.09.2016. Den Bezug auf „Von der Pflicht“ habe ich entfernt, weil er nicht belegt ist.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Ist der Kapitalismus so umbaufähig, dass wir ihn enkeltauglich machen?“** (these, bestätigt)
+  - Prüfung: Wortgleich in Wikipedia mit Bezug auf das September-2022-Interview. Den „Wachstumswahn“ fand ich dort nicht, daher gestrichen.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Verantwortlich – das sind immer die anderen.“** (these, bestätigt)
+  - Prüfung: Wortgleich in Wikipedia mit Seitenangabe.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Was kann ich wissen? Was soll ich tun? Was darf ich hoffen?** (denkfigur, bestätigt)
+  - Prüfung: Wikipedia: „in drei Hauptfragen gegliedert, unter denen insgesamt 34 Kapitel ausgeführt werden“. Wörtlich sind die Fragen Kant zuzuordnen.
+  - <https://de.wikipedia.org/wiki/Wer_bin_ich_%E2%80%93_und_wenn_ja,_wie_viele%3F>
+- **Philosophiegeschichte als „Fortsetzungsroman der immer gleichen großen Fragen in ihren jeweils neuen Zeitgewändern“** (denkfigur, bestätigt)
+  - Prüfung: Wortgleich in Wikipedia mit Seitenangabe S. 19.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Nicht jede philosophische Frage lässt sich beantworten. Auf viele gibt es nur ungefähre Antworten. Und viele davon führen sofort zu neuen Fragen.“** (redewendung, bestätigt)
+  - Prüfung: Wortgleich im Wikipedia-Artikel, Beleg S. 25.
+  - <https://de.wikipedia.org/wiki/Warum_gibt_es_alles_und_nicht_nichts%3F>
+- **Romantische Liebe entspringt der Eltern-Kind-Bindung, nicht der Sexualität** (these, bestätigt)
+  - Prüfung: Wikipedia: „Prechts Hauptthese ist, dass die geschlechtliche Liebe nicht aus der Sexualität, sondern aus der Eltern-Kind-Bindung entstanden ist.“
+  - <https://de.wikipedia.org/wiki/Liebe:_Ein_unordentliches_Gef%C3%BChl>
+- **KI schafft die Kultur ab, weil Menschen keine eigenen Erfahrungen mehr machen** (these, bestätigt)
+  - Prüfung: itigefo und der Penguin-Klappentext belegen die These sinngemäß. Die Formulierung ist eine Zusammenfassung, kein Precht-Wortlaut.
+  - <https://www.itigefo.de/2026/10/10/vom-vergessen-richard-david-prechts-auserzaehlt/>
+  - <https://www.penguin.de/buecher/richard-david-precht-auserzaehlt-/buch/9783442302680>
+- **„Dass wir so tun, als gäbe es nur Schwarz und Weiß.“** (redewendung, bestätigt)
+  - Prüfung: Wortgleich in Wikipedia. Der Einzelnachweis direkt hinter dem Zitat ist das Tagesspiegel-Interview vom 17.11.2021, nicht das Zeit-Interview vom 18.11., daher korrigiert.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **ZDF-Sendung „Precht“ (seit 2012) und Podcast „Lanz + Precht“ (seit 2021, vormals „Lanz & Precht“)** (referenz, bestätigt)
+  - Prüfung: Die Wikipedia-Artikel zu Talkshow und Podcast belegen alle Daten. „Nr. 1-Podcaster“ steht auf der Penguin-Seite und im DNB-Titel von „Angststillstand“.
+  - <https://de.wikipedia.org/wiki/Lanz_%2B_Precht>
+  - <https://de.wikipedia.org/wiki/Precht_(Talkshow)>
+  - <https://www.penguin.de/buecher/richard-david-precht-das-jahrhundert-der-toleranz/buch/9783442316076>
+- **„Bürgerphilosoph“ (Die Zeit), „mediale Allzweckwaffe“ (Der Spiegel), „Weltbegriffsphilosoph“ (The European), „Pyromane des Denkens“ (Tagesspiegel 2026)** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Wikipedia, Abschnitt Rezeption, belegt alle Etiketten mit Quellen. Die Tagesspiegel-Rezension von Gerrit ter Horst (09.10.2026) trägt den Titel „Der Pyromane des Denkens zündelt wieder fleißig“.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.tagesspiegel.de/kultur/richard-david-prechts-neues-buch-auserzahlt-der-pyromane-des-denkens-zundelt-wieder-fleissig-16143806.html>
+- **Heikle Kontroversen nicht als Witzstoff nutzen: Äußerung über orthodoxe Juden (Okt. 2023), Corona-Kinderimpfung (Okt. 2021), Ukraine-Äußerungen (März 2022), Gendern** (meiden, bestätigt)
+  - Prüfung: Wikipedia belegt alle vier Punkte samt Zitaten. Den Ukraine-Punkt habe ich präzisiert („halte es für klug, den Krieg nicht fortzusetzen“) statt „zum Aufgeben geraten“.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://de.wikipedia.org/wiki/Lanz_%2B_Precht>
+- **„Denn in der Geschichte der Menschheit gibt es kein freiwilliges Zurück, nur eine Bewegung nach vorn.“** (redewendung, bestätigt)
+  - Prüfung: Neu ergänzt. Wortgleich im Wikipedia-Artikel mit Seitenangabe.
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **„Keine ökonomische Logik produziert aus sich heraus ein menschenwürdiges Leben. Die Demokratisierung von Lebenschancen ist eine politische Aufgabe.“** (these, bestätigt)
+  - Prüfung: Neu ergänzt. Wortgleich im Wikipedia-Artikel, (S. 57).
+  - <https://de.wikipedia.org/wiki/J%C3%A4ger,_Hirten,_Kritiker._Eine_Utopie_f%C3%BCr_die_digitale_Gesellschaft>
+- **„Wer einseitig auf Konkurrenz setzt und die Kooperation vernachlässigt, gebiert keine netten Menschen.“** (these, bestätigt)
+  - Prüfung: Neu ergänzt. Die Rezension auf prozukunft.org zitiert beide Sätze mit Seitenzahlen.
+  - <https://www.prozukunft.org/buecher/die-kunst-kein-egoist-zu-sein>
+- **„Wie viele berühmte Philosophen, die ihre besten Gedanken beim Gehen hatten, haben wir viele Spaziergänge gemacht.“** (redewendung, bestätigt)
+  - Prüfung: Neu ergänzt. Wortgleich im Wikipedia-Artikel, Beleg S. 14.
+  - <https://de.wikipedia.org/wiki/Warum_gibt_es_alles_und_nicht_nichts%3F>
+- **„Richard, wo erreiche ich dich?“ – Lanz' Begrüßung zu Beginn jeder Podcastfolge** (ritual, bestätigt)
+  - Prüfung: Neu ergänzt. Wikipedia: „Richard, wo erreiche ich dich? (Anspielung auf die übliche Begrüßung Prechts durch Lanz zu Beginn jeder Folge)“.
+  - <https://de.wikipedia.org/wiki/Lanz_%2B_Precht>
+
+## Referenzen und Biografie
+
+- **Lenin kam nur bis Lüdenscheid. Bis Solingen ist er nicht gekommen.** (anekdote, bestätigt)
+  - Prüfung: Den Text der Penguin-Leseprobe habe ich selbst ausgelesen. Der Eröffnungssatz, der Satz zu den 25 km, DKP und Naturfreunde, das 'Pfingstlager in Lüdenscheid 1974', Vahle, 'Bella Ciao', die 'Internationale' und 'doof … Kacka und Pipi' stehen dort wörtlich. Den Filmstart 2008 belegt die taz.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+  - <https://taz.de/Filmstart-Lenin-kam-nur-bis-Luedenscheid/!5181118/>
+  - <https://www.programmkino.de/filmkritiken/lenin-kam-nur-bis-luedenscheid/>
+- **Er wächst mit einem klaren Feindbild, den USA, auf, und natürlich ist Coca-Cola ebenso verpönt wie Ketchup, „Flipper“ oder „Raumschiff Enterprise“. Dafür gibt es das GRIPS-Theater und Lieder von Degenhardt und Süverkrüp.** (anekdote, bestätigt)
+  - Prüfung: Der Klappentext steht so in der Leseprobe, dort allerdings mit dem Druckfehler 'Süverküp'. Richtig heißt er Dieter Süverkrüp. Das Phantasialand-Zitat (taz 2008), 'Tiervater Brehm' und der 'paradiesische Zoo' (critic.de) sowie das Zitat 'Achtundsechziger, Marxisten und Atheisten' (taz 28.06.2013) …
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+  - <https://taz.de/Filmstart-Lenin-kam-nur-bis-Luedenscheid/!5181118/>
+  - <https://www.critic.de/film/lenin-kam-nur-bis-luedenscheid-1314/>
+  - <https://taz.de/Philosophie-fuer-alle/!5064404/>
+- **Vietnamesische Adoptivgeschwister: zwei Kinder, die die Eltern 1969 und 1972 aus Protest gegen den Vietnamkrieg in die Familie aufnahmen** (anekdote, bestätigt)
+  - Prüfung: Wikipedia belegt die Jahre, das Protestmotiv, Krups und Terre des hommes. Die Kapiteltitel stehen im Inhaltsverzeichnis der Leseprobe. Das Marcel-Zitat steht in der taz, die zwei WDR-Drehs bei critic.de.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.critic.de/film/lenin-kam-nur-bis-luedenscheid-1314/>
+  - <https://taz.de/Filmstart-Lenin-kam-nur-bis-Luedenscheid/!5181118/>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+- **Als Kind Fan von Dynamo Kiew und Oleg Blochin und Jubel über das 1:0 der DDR gegen die BRD bei der WM 1974** (anekdote, bestätigt)
+  - Prüfung: Alle drei Filmkritiken habe ich geöffnet, die Zitate stimmen. Die taz gibt die kindliche Aussprache 'Dünnammo' Kiev wieder. Das Kapitel 'Baader und Blochin' steht im Inhaltsverzeichnis der Leseprobe.
+  - <https://taz.de/Filmstart-Lenin-kam-nur-bis-Luedenscheid/!5181118/>
+  - <https://www.programmkino.de/filmkritiken/lenin-kam-nur-bis-luedenscheid/>
+  - <https://www.epd-film.de/filmkritiken/lenin-kam-nur-bis-luedenscheid>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+- **Das leidenschaftliche Interesse für Philosophie habe ich nicht mehr verloren. Es lebt fort seit den Tagen von Agia Ana.** (anekdote, bestätigt)
+  - Prüfung: Den Wortlaut habe ich in der Leseprobe (Ausgabe 2022) geprüft, auch alle Details zu Jürgen, Platon und 'für einige Zeit'.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Mein Zivildienst als Gemeindehelfer freilich regte nicht zu kühnen Gedanken an; seit ich die evangelische Kirche von innen gesehen habe, mag ich den Katholizismus.** (anekdote, bestätigt)
+  - Prüfung: Der Satz steht wörtlich in der Leseprobe, die Lebensdaten bei Wikipedia.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Die Kölner Philosophieprofessoren als 'langweilige ältere Herren in braunen oder blauen Busfahreranzügen' und: 'Achthundert Meter Raum in einer Universität sind sehr viel.'** (anekdote, bestätigt)
+  - Prüfung: Beide Zitate, Adorno, Bloch, Sartre, die Zwirbelbärte, die 'zwei völlig verschiedenen Planeten' und Loriot stehen wörtlich in der Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Das Schöne an der Philosophie ist, dass sie kein Fach ist, das man je zu Ende studiert. Genau genommen, ist sie noch nicht einmal ein Fach.** (denkfigur, bestätigt)
+  - Prüfung: Den Wortlaut habe ich in der Leseprobe geprüft. 'Philosophie ist keine historische Wissenschaft' steht ebenfalls wörtlich dort. Den philomag-Titel vom 14.11.2023 habe ich geöffnet.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+  - <https://www.philomag.de/artikel/richard-david-precht-sind-alle-fragen-beantwortet-ist-die-philosophie-am-ende>
+- **Fragen stellen zu können, ist eine Fähigkeit, die man nie verlernen sollte. Denn Lernen und Genießen sind das Geheimnis eines erfüllten Lebens. Lernen ohne Genießen verhärmt, Genießen ohne Lernen verblödet.** (redewendung, bestätigt)
+  - Prüfung: Den Wortlaut und den Nietzsche-Einschub '(für sich selbst vergeblich)' habe ich in der Leseprobe geprüft.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **»Wer bin ich? Und wenn ja – wie viele?«, antwortete er mir mit weit aufgerissenen Augen, den Kopf wild drehend und mit heiserer Kehle.** (anekdote, bestätigt)
+  - Prüfung: Den Wortlaut, Helminger und 'Ville de Luxembourg' habe ich in der Leseprobe geprüft. Die Daten zur Bestsellerliste stehen bei Wikipedia. Die Uhrzeit 'drei Uhr nachts' steht nicht im Text, deshalb habe ich sie in persona_use entschärft.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Immanuel Kant hat die großen Fragen der Menschheit einmal in die Fragen unterteilt: »Was kann ich wissen? Was soll ich tun? Was darf ich hoffen? Was ist der Mensch?« [...] wobei letztere Frage durch die ersten drei ganz gut erklärt scheint, so dass ich meine, sie hier getrost weglassen zu können.** (referenz, bestätigt)
+  - Prüfung: Den Wortlaut habe ich in der Leseprobe geprüft. Das ausgelassene Stück lautet: 'Sie bilden einen schönen Leitfaden auch für die Gliederung dieses Buches,'. Das Inhaltsverzeichnis zeigt die drei Teile. Für den Corona-Kant-Bezug gab es keinen Beleg, ich habe ihn entfernt.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Precht vergleicht Kants Menschenbild mit Mr. Spock: Kant beschreibe den Menschen, als wären wir alle vernünftige Vulkanier (sinngemäß; ein Penguin-Presseinterview trägt laut URL den Titel 'Mister Spock könnte von Kant erfunden worden sein').** (referenz, plausibel)
+  - Prüfung: Das Spock-Kapitel steht im Inhaltsverzeichnis der Leseprobe. Die Interviewseite liefert ohne JavaScript nur die Portal-Startseite. Den Wortlaut habe ich deshalb nicht verifiziert und verbatim auf false gesetzt.
+  - <https://presse.penguinrandomhouse.de/news/mister-spock-koennte-von-kant-erfunden-worden-sein>
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Friedrich Nietzsche im 19. Jahrhundert war einer der scharfsinnigsten Kritiker der Philosophie, aber seine eigenen Wunschbilder vom Menschen waren kitschig, anmaßend und albern.** (referenz, bestätigt)
+  - Prüfung: Hauptzitat, 'schönste Anfang', 'markiger' und 'Schnauzbart' stehen wörtlich in der Leseprobe. Das ZDF-PDF liefert 404, auch über curl geprüft. Diesen Teil habe ich entfernt.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Freiheitsbegriff mit Humboldt und Mill: 'Da wo die Freiheit der anderen beginnt, hört meine Freiheit auf.' Dazu ambivalentes Lob für Hume.** (referenz, plausibel)
+  - Prüfung: Blick (Mill/Humboldt), Hume in der Leseprobe und information-philosophie (Kommunitarismus) habe ich geprüft. Die Aussage 'kein Lieblingsphilosoph, aber Hume, Mill, Luhmann, Cramer' bleibt unbelegt, weil das ZDF-PDF 404 liefert und die Websuche erschöpft war. Den Eintrag habe ich deshalb auf die …
+  - <https://www.blick.ch/meinung/bestseller-philosoph-richard-david-precht-ich-schaue-maximal-mitfuehlend-und-maximal-kuehl-auf-den-krieg-id17311706.html>
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+  - <https://www.information-philosophie.de/richard-david-precht.html>
+- **Und auch die enorme philosophische und politische Bedeutung von Georg Wilhelm Friedrich Hegel steht in einem spannenden Missverhältnis zu den vielen Ungereimtheiten seiner Spekulationen.** (referenz, bestätigt)
+  - Prüfung: Hegel-, Freud- und Moden-Satz stehen wörtlich in der Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **heute dies, morgen jenes zu tun, morgens zu jagen, nachmittags zu fischen, abends Viehzucht zu treiben, nach dem Essen zu kritisieren, wie ich gerade Lust habe, ohne je Jäger, Fischer, Hirt oder Kritiker zu werden** (referenz, bestätigt)
+  - Prüfung: Im Leseproben-PDF geprüft. Das Marx-Engels-Zitat, Wilde und die Gespenst-Parodie stehen wörtlich darin. Einen Fehler habe ich korrigiert: Im Original heißt es 'Besoffen von ihren Ideen', nicht 'beseelt'.
+  - <https://images-eu.ssl-images-amazon.com/images/I/A1HpronaVkS.pdf>
+- **Wir dekorieren auf der Titanic die Liegestühle um / Der Palo-Alto-Kapitalismus regiert die Welt / Die Maschinen arbeiten – die Arbeiter singen / Abschied vom Monetozän** (redewendung, bestätigt)
+  - Prüfung: Alle vier Überschriften stehen im Inhaltsverzeichnis der Leseprobe, die Zusatzsätze im Fließtext. Den Satz 'Die Techniker …' habe ich als eigenen Eintrag ergänzt.
+  - <https://images-eu.ssl-images-amazon.com/images/I/A1HpronaVkS.pdf>
+- **Ich verstehe mich da eher in der Tradition von Aufklärungsphilosophen wie Rousseau und Montesquieu, die mit Raffinesse um die Gunst und die Aufmerksamkeit des Publikums gebuhlt haben, um ihre Ideen unter die Menschen zu bringen.** (referenz, bestätigt)
+  - Prüfung: Falter-Seite geöffnet. Der Satz steht dort bis 'gebuhlt haben' wörtlich, den Rest ('um ihre Ideen …') hat das Abruf-Tool nicht mitgeliefert. Die taz-Zitate und das Kapitel 'Rousseaus Irrtum' habe ich geprüft.
+  - <https://wienerstadtgespraech.at/falter_interviews/Interview-Richard-David-Precht>
+  - <https://taz.de/Philosophie-fuer-alle/!5064404/>
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Es gibt von Sokrates den Satz, dass Siegen dumm macht.** (meiden, bestätigt)
+  - Prüfung: Beide Seiten habe ich geöffnet. Prechts Wortlaut steht im Falter, Falschzuschreibung und Brecht-Ursprung bei falschzitate. In persona_use habe ich 'Grass' zu 'Brecht' korrigiert.
+  - <https://wienerstadtgespraech.at/falter_interviews/Interview-Richard-David-Precht>
+  - <https://falschzitate.blogspot.com/2017/04/siegen-macht-dumm-sokrates-angeblich.html>
+- **Wiederkehrende Gedankenexperimente: der Mann auf der Brücke bzw. das Weichensteller-Dilemma, 'Tante Bertha soll leben', das Libet-Experiment, der Fall Gage, das Rawls-Spiel, die Matrix-Maschine, 'Wie ist es, ein Flughund zu sein?'** (denkfigur, bestätigt)
+  - Prüfung: Alle Kapiteltitel stehen wörtlich in den Inhaltsverzeichnissen beider Leseproben.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15634-4.pdf>
+- **Den einen habe ich gelauscht, mit den anderen gefochten und viel dazugelernt.** (anekdote, bestätigt)
+  - Prüfung: Den Wortlaut, die Namensliste und die 'Weltreise' habe ich in der Leseprobe geprüft. Wer zu den Gelauschten und wer zu den Gefochtenen gehört, sagt Precht nicht.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **»Die Welt, mein Sohn«, erklärt im Aquarium der Vaterfisch seinem Filius, »ist ein großer Kasten voller Wasser!«** (denkfigur, bestätigt)
+  - Prüfung: Der Satz und beide Nebenzitate stehen wörtlich in der Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **»Papa, das geht nicht«, sagte er betrübt. »Im Mittelalter gab es noch gar keinen Strom.«** (anekdote, bestätigt)
+  - Prüfung: Dialog, Electrophorus, Konnopke und der Leitsatz stehen wörtlich in der Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15634-4.pdf>
+- **»Ich male den lieben Gott«, antwortet Anna. [...] »Warten Sie noch fünf Minuten«, sagt Anna, »dann wissen Sie es!«** (referenz, bestätigt)
+  - Prüfung: Die Anekdote, Ken Robinson und 'Schule tötet Kreativität!' stehen in der Leseprobe, die Cicero-Zitate auf der geöffneten Seite. Die Anekdote selbst stammt von Robinson, Precht zitiert sie nur.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-31261-0.pdf>
+  - <https://www.cicero.de/kultur/wir-brauchen-eine-bildungsrevolution/51963>
+- **Ihrer wahren Natur nach sind Utopien Amphibien.** (redewendung, bestätigt)
+  - Prüfung: Beide Sätze stehen wörtlich in der Leseprobe, ebenso der Ort 'Hinter den Hügeln liegt Bern'.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+- **Dem unbekannten Schwebebahnschaffner. Motto: »Wir werden nicht den Weg von der Utopie zur Wissenschaft zurücklegen. Denn das führt uns zur Endstation, deren gesamte technische Raffinesse uns bis ins Jenseits verfolgen wird!« – Ein Wuppertaler Schwebebahnschaffner, am 25. Mai 1971** (anekdote, bestätigt)
+  - Prüfung: Widmung und Motto samt Datum stehen wörtlich in der Leseprobe. Die Deutung bleibt Interpretation.
+  - <https://content.penguinrandomhouse.de/content/edition/excerpts_extended/Leseprobe_978-3-442-31402-7.pdf>
+- **Robert Musil: Doktorarbeit 'Die gleitende Logik der Seele. Ästhetische Selbstreflexivität in Robert Musils Der Mann ohne Eigenschaften' (1994)** (referenz, bestätigt)
+  - Prüfung: Titel und Jahr belegen information-philosophie und Wikipedia, die Vater-Passage und Musil in 'Wer bin ich' die Leseproben. philpapers gab 403 zurück. Unbelegtes zu Verlag und 'Mache die Welt' habe ich entfernt.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.information-philosophie.de/richard-david-precht.html>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Cicero als Pate für 'Von der Pflicht' (2021): Pflicht als Fürsorge und Dienst an der Gemeinschaft statt Untertanengehorsam** (referenz, plausibel)
+  - Prüfung: Das Cicero-Zitat steht bei wissen57, Konsument/Bürger und die zwei Pflichtjahre bei buchszene. Die 'Kunde'-Formel und die Kant/Mill/Tocqueville-Bezüge stehen in keiner der geöffneten Quellen wörtlich.
+  - <https://www.wissen57.de/richard-david-precht-verpflichtung.html>
+  - <https://buchszene.de/von-der-pflicht-bestseller/>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Dänemark als Familien-Sehnsuchtsort und Krimi mit dem Bruder: 'Das Schiff im Noor' (Neuauflage 'Die Instrumente des Herrn Jørgensen'), zusammen mit Georg Jonathan Precht** (anekdote, bestätigt)
+  - Prüfung: Krimi und Neuauflage belegen Wikipedia und die Werkliste in der Warum-Leseprobe. 'Familienurlaub in Dänemark' steht bei perlentaucher (FAZ), das Sommerhaus der Mutter in der Lenin-Leseprobe, Lebensstationen bei Wikipedia. Den Inseldetail habe ich nicht verifiziert und deshalb abgeschwächt.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.perlentaucher.de/buch/richard-david-precht/lenin-kam-nur-bis-luedenscheid.html>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15634-4.pdf>
+- **Precht ist vom Handwerk her Journalist und als solcher Popularisator von Beruf. [...] Seine Klientel gleicht eher der von André Rieu, den hören auch vor allem Damen über fünfzig in spätidealistischer Stimmung.** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Den taz-Blog habe ich geöffnet. Korrektur: Das Zitat endet nicht bei 'fünfzig', es geht weiter mit 'in spätidealistischer Stimmung'. Die Etiketten 'Bürgerphilosoph' und 'mediale Allzweckwaffe' stehen bei Wikipedia. Die Balzter-Wortlaute sind nicht belegt und wurden gestrichen.
+  - <https://blogs.taz.de/popblog/2012/08/26/schmahkritik-501-peter-sloterdijk-uber-richard-david-precht/>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Heikle Biografie- und Kontroversenpunkte nicht als Gag verwenden: Kinderheim-Aufenthalt 1970, Krankheit der Schwester, Entwurzelung der Adoptivgeschwister, die Äußerung über orthodoxe Juden von 2023** (meiden, bestätigt)
+  - Prüfung: Kinderheim, Corona-Zitat, die drei Tage und die ZDF-Streichung habe ich bei Wikipedia geprüft, die Schwester mit Spina bifida in der Lenin-Leseprobe.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+- **Die Techniker haben den Menschen noch nie verstanden, und den Finanzspekulanten ist er egal. Warum also sollten wir die Zukunft ausgerechnet ihnen überlassen?** (these, bestätigt)
+  - Prüfung: Neu ergänzt. Der Satz steht wörtlich in der Leseprobe als Auftaktsatz zu 'DIE REVOLUTION'.
+  - <https://images-eu.ssl-images-amazon.com/images/I/A1HpronaVkS.pdf>
+- **Manchmal ist der Weg auch ein schönes Ziel.** (redewendung, bestätigt)
+  - Prüfung: Neu ergänzt, der Satz steht wörtlich in der Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts/1012644.pdf>
+- **Biografie ist mitgeschleppte Gegenwart, tagtägliche Identität. Ein Felsen, auf dem man steht, oder einer, den man auf dem Rücken herumschleppt.** (denkfigur, bestätigt)
+  - Prüfung: Neu ergänzt, der Satz steht wörtlich in der Lenin-Leseprobe.
+  - <https://www.penguin.de/content/edition/excerpts_extended/Leseprobe_978-3-442-15872-0.pdf>
+
+## Fremdwahrnehmung, Parodien, Kontroversen
+
+- **„schönster Philosoph Deutschlands“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Standard, Tagesspiegel (Soltau, 21.10.2023) und Telepolis (Rathmann, 24.10.2023) enthalten den Ausdruck jeweils wörtlich. Auch die Standard-Formulierungen „Sechstagebart“ und „legere, gut sitzende Anzüge“ stehen so im Text.
+  - <https://www.derstandard.at/story/2000139798184/richard-david-precht-und-die-medien-der-hassgeliebte>
+  - <https://www.tagesspiegel.de/gesellschaft/selbstgefalliger-welterklarer-warum-horen-wir-richard-david-precht-uberhaupt-noch-zu-10651360.html>
+  - <https://www.telepolis.de/article/Todessternstunde-der-Philosophie-Richard-David-Precht-wirft-hin-9342091.html>
+- **Sloterdijks André-Rieu-Vergleich: „Precht ist vom Handwerk her Journalist und als solcher Popularisator von Beruf. […] Seine Klientel gleicht eher der von André Rieu, den hören auch vor allem Damen über fünfzig in spätidealistischer Stimmung.“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: t-online (09.05.2012), der taz-Blog und die Wiener Zeitung zitieren den Wortlaut aus dem ZEIT-Interview übereinstimmend. Der Titanic-Satz „nicht die hellste Kerze“ steht wörtlich in der Satire vom 03.12.2016. Korrigiert: „André Rieu der Philosophie“ ist kein Originalzitat.
+  - <https://www.t-online.de/unterhaltung/tv/id_56279826/-das-philosophische-quartett-philosophenzoff-beim-zdf.html>
+  - <https://blogs.taz.de/popblog/2012/08/26/schmahkritik-501-peter-sloterdijk-uber-richard-david-precht/>
+  - <https://www.wienerzeitung.at/h/philosophie-fur-andre-rieu-fans>
+  - <https://www.titanic-magazin.de/news/titanic-thinktank-ein-philosophisches-weihnachtsgespraech-mit-peter-sloterdijk-8515/>
+- **„Fernsehphilosoph“ (auch „TV-Philosoph“): „Richard David Precht, der zu seinem Leidwesen als Fernsehphilosoph firmiert“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Der Cicero-Satz ist wörtlich belegt. Meedia bestätigt „TV-Philosoph“ beim Spiegel, und zwar im Ukraine-Brief-Kontext. Die SZ-Schlagzeile (X-Link) konnte ich nicht öffnen und habe sie deshalb als Quelle entfernt.
+  - <https://www.cicero.de/kultur/nachhumanistische-philosophie-richard-david-precht-verharmlost-den-terror/58907>
+  - <https://meedia.de/news/beitrag/2904-was-hat-der-quot-spiegel-quot-nur-gegen-richard-david-precht.html>
+- **„Bürgerphilosoph“ (Die Zeit), „mediale Allzweckwaffe“ (Der Spiegel), „Weltbegriffsphilosoph“ (The European), „Populärphilosoph“ (Daniel-Pascal Zorn)** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Der Wikipedia-Rohtext nennt alle vier Etiketten wörtlich, jeweils mit Einzelnachweis (Zeit 2011, Spiegel 34/2011, The European 2017, Zorn 2019). Präzisiert: „Weltbegriffsphilosoph“ ist eine Verteidigung, kein Spott.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Talkshow-Dauergast“** (fremdwahrnehmung, plausibel)
+  - Prüfung: Den X-Post konnte ich nicht abrufen (HTTP 402). Wikipedia bestätigt Spiegel/Evers vom 02.11.2021 mit „intellektuell abgestürzt“ und „Querdenker-Niveau“. Das Wort „Talkshow-Dauergast“ selbst ist damit nicht direkt geprüft.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://x.com/derspiegel/status/1455639117388075012?lang=de>
+- **Kalkofe-„Laudatio für das Genie Richard David Precht“: „Als hätten Platon, Karl May und Sascha Hehn ein Kind gezeugt“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Die freenet-/spot-on-news-Meldung vom 08.12.2024 zitiert die Zeile wörtlich und schreibt sie Kalkofe in extra 3 zu. Korrigiert: Quelle ist spot on news, nicht dpa. Sendedatum und Titel stammen nur aus der prisma-URL (Seite gab 403).
+  - <https://mail.freenet.de/unterhaltung/promis/richard-david-precht-wird-60-der-power-philosoph-feiert-geburtstag-40482416.html>
+  - <https://www.prisma.de/mediathek/ard/kabarettshow/extra-3/oliver-kalkofes-laudatio-fuer-das-genie-richard-david-precht,46080921>
+- **Titanic-Steckbrief „Premiumdenker der Gegenwart (4)“: Spitznamen „Prechtinator, Super-Richie“, Hauptwerke „Schön durch Autosuggestion“, „Redundanz und wie man sie vermeidet“, „Redundanz und wie man sie vermeidet (2)“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Spitznamen, Werktitel und Datum (02.09.2012) sind auf der Titanic-Seite wörtlich vorhanden.
+  - <https://www.titanic-magazin.de/news/premiumdenker-der-gegenwart-4-5176/>
+- **„Precht macht dumm“, Verriss der ersten Sendung „Skandal Schule – Macht Lernen dumm?“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Der Wikipedia-Rohtext nennt den ZEIT-Artikeltitel, die Zitate von Probst und Hammelehle und die Precht-Aussage mit Einzelnachweisen. Kleine Korrektur: Precht sprach nicht von „lobte“, sondern von „keine Sendung mehr missglückt“.
+  - <https://de.wikipedia.org/wiki/Precht_(Talkshow)>
+- **Die Philosophiesendung „Precht“ läuft sonntags spät (23:30 Uhr bis Mitternacht). Das Handelsblatt lobte, das ZDF komme damit „zumindest nach Mitternacht seinem Bildungsauftrag“ nach.** (anekdote, bestätigt)
+  - Prüfung: Wikipedia nennt Sendezeit (23:30 bis Mitternacht), Länge, Folge 14 und das Handelsblatt-Zitat wörtlich. Die Angabe 23:45 Uhr habe ich nicht verifiziert und deshalb entfernt.
+  - <https://de.wikipedia.org/wiki/Precht_(Talkshow)>
+- **„Treffen sich zwei Männer und starten einen Podcast“ und „Die Methode Precht: provozieren und polemisieren. Er gefällt sich im Dagegensein.“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Alle vier Formulierungen sind im Übermedien-Text wörtlich vorhanden. Autor und Datum stimmen.
+  - <https://uebermedien.de/63985/podcastkritik-lanz-precht-okay-boomer-und-ihr-laberpodcast/>
+- **„prechtln“: mit vielen Worten wenig sagen. „Die Türen, die dieser Philosoph eintritt, stehen immer schon sperrangelweit offen, deshalb knallt er sie in seinen Texten auch besonders laut zu.“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Türen-Satz, „Prinzip Precht, mit vielen Worten wenig zu sagen“ und „prechtlt es inzwischen gewaltig“ sind wörtlich belegt. Korrigiert: Schreibweise „prechtln“ statt „prechteln“. Ob Fleischhauer das Wort erfunden hat, ist nicht belegt.
+  - <https://www.tichyseinblick.de/feuilleton/buecher/ueber-richard-david-precht-und-die-kunst-des-prechtlns/>
+- **„Archetyp des Bescheidwissers, der ständig irrt“: Prognose-Irrtümer** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Wikipedia zitiert Lebers Formel wörtlich und nennt die Prognosen von der Leyen, Trump 2020 und Ukraine. Der Tagesspiegel-Vorspann bestätigt Autor und Datum. Kurz/Castro und Corona-„harmlos“ fand ich in keiner geöffneten Quelle, deshalb gestrichen; die Persona-Pointe ist angepasst.
+  - <https://www.tagesspiegel.de/gesellschaft/notorische-bescheidwisser-wie-oft-kann-sich-richard-david-precht-noch-irren-9874811.html>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Die Haare als Markenzeichen: Auftritt beim „Parteitag der Friseure“, nachdem Precht gegenüber Lanz gesagt hatte, seine Haare seien ihm egal** (anekdote, bestätigt)
+  - Prüfung: Die Berliner Zeitung bestätigt Haare „egal“, das Lanz-Gespräch, den Admiralspalast und die Bildunterschrift. Eine Besucherzahl nennt sie nicht, deshalb habe ich die „1.500“ aus der Persona-Zeile entfernt. Das Standard-Zitat ist wörtlich belegt.
+  - <https://www.berliner-zeitung.de/article/richard-david-precht-beim-parteitag-der-friseure-zum-haare-raufen-2177061>
+  - <https://www.derstandard.at/story/2000139798184/richard-david-precht-und-die-medien-der-hassgeliebte>
+- **„Power-Philosoph“, „Power-Talker“, „Star-Philosoph“, „unermüdlicher Welterklärer“, „redegewandter Dressman“ (Isolde Charim), dazu „Lifestyle-Philosoph“ und „Popstar“ (taz)** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Alle Etiketten sind in den geöffneten Quellen wörtlich vorhanden. Korrigiert: Die Geburtstagsmeldung stammt von spot on news, nicht von dpa. Die taz-Angaben (Autorin, Datum) habe ich ergänzt.
+  - <https://mail.freenet.de/unterhaltung/promis/richard-david-precht-wird-60-der-power-philosoph-feiert-geburtstag-40482416.html>
+  - <https://taz.de/Philosophie-fuer-alle/!5064404/>
+  - <https://www.tagesspiegel.de/gesellschaft/selbstgefalliger-welterklarer-warum-horen-wir-richard-david-precht-uberhaupt-noch-zu-10651360.html>
+- **Akademische Kritik: Precht bekomme „den Anschein akademischer Legitimität, solange man nicht genauer hinsieht“. Promoviert hat er 1994 literaturwissenschaftlich über Musils „Der Mann ohne Eigenschaften“.** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Das Zorn-Zitat bei der Berliner Zeitung, die Brodkorb-Zitate bei Cicero und die Studien- und Promotionsdaten bei Wikipedia sind belegt. Präzisiert: „literaturwissenschaftliche Dissertation“, Fach studiert war Germanistik.
+  - <https://www.berliner-zeitung.de/kultur-vergnuegen/philosoph-kritisiert-richard-david-precht-anschein-akademischer-legitimitaet-li.222764>
+  - <https://www.cicero.de/innenpolitik/uber-den-philosophen-richard-david-precht-dem-zeitgeist-aufs-maul->
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **„Die Precht AG“: Precht besetze „so perfekt“ eine Marktlücke, als habe Bertelsmann ihn „aus dem Marketingbaukasten eigens dafür zusammengesetzt“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Wikipedia zitiert Balzter wörtlich und gibt das FAZ-Datum 30.12.2017 an. Kaubes Titel und Datum sind ebenfalls dort belegt. Der Amazon-Titel enthält „vom Nr.1-Podcaster“. Das Erscheinungsjahr 2025 stand nicht auf der Seite.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.amazon.de/Angststillstand-Meinungsfreiheit-schwindet-Nr-1-Podcaster-SPIEGEL-Bestsellerautor/dp/3442302315>
+- **„Der Hassgeliebte“: das gespaltene Verhältnis zwischen Precht und den Medien, verschärft durch „Die vierte Gewalt. Wie Mehrheitsmeinung gemacht wird, auch wenn sie keine ist“ (2022, mit Harald Welzer)** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Liste und Datum im Freitag sind bestätigt, ebenso Übermedien (Autor Reisin, 03.10.2022). Der Standard-Titel „Der Hassgeliebte“ und die Entfremdung sind belegt. Korrigiert: „Platz 1 der Bestsellerliste“ ist nicht verifiziert, Wikipedia sagt nur „als Bestseller gehandelt“.
+  - <https://www.freitag.de/autoren/michael-angele/das-problem-mit-richard-david-precht>
+  - <https://uebermedien.de/77163/der-erstaunlich-laxe-umgang-von-precht-und-welzer-mit-der-wahrheit/>
+  - <https://www.derstandard.at/story/2000139798184/richard-david-precht-und-die-medien-der-hassgeliebte>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Falschaussage über orthodoxe Juden („Diamanthandel und ein paar Finanzgeschäfte ausgenommen“), Oktober 2023, und die Folgen** (meiden, bestätigt)
+  - Prüfung: Wortlaut, Kritiker, ZDF-Löschung und fehlender Widerspruch von Lanz stehen bei der Jüdischen Allgemeinen. Rücktritt 23.10.2023 laut Tagesspiegel, Professur seit 2011 laut Wikipedia, Staatsanwaltschaft Mainz (10.04.2024) laut t-online. Postillon und Watson sind bestätigt. Das genaue Datum 18.10. …
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.juedische-allgemeine.de/politik/zdf-und-precht-bedauern-kritik-an-antisemitischem-satz/>
+  - <https://www.t-online.de/unterhaltung/stars/id_100381988/david-precht-entlastet-juden-aussage-bei-lanz-keine-volksverhetzung.html>
+  - <https://www.tagesspiegel.de/gesellschaft/ausserungen-im-podcast-schriftsteller-precht-gibt-honorarprofessur-auf-10672174.html>
+  - <https://www.der-postillon.com/2023/10/precht-entschuldigung.html>
+  - <https://www.watson.de/unterhaltung/tv/391372518-zdf-magazin-royale-boehmermann-teilt-gegen-richard-david-precht-aus>
+- **Corona: Kinder „niemals“ mit den neuartigen Impfstoffen impfen lassen (Lanz & Precht, Ausgabe neun, 29.10.2021)** (meiden, bestätigt)
+  - Prüfung: Wikipedia belegt Datum, Wortlaut, das Lauterbach-Zitat und die Spiegel-Formulierung. Der Tagesspiegel bestätigt „zu laxe Formulierungen“. Faktum bestätigt die Kaiser-Montage. Korrigiert: Es war eine Montage, keine Parodie.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+  - <https://www.tagesspiegel.de/gesellschaft/medien/ich-habe-nie-vorgehabt-jemandem-angst-zu-machen-5412901.html>
+  - <https://faktum-magazin.de/2020/12/es-froestelt-einen-dabei-richard-david-precht-in-das-leben-der-anderen/>
+- **Ukraine-Krieg: „Pflicht zur Klugheit, einzusehen, wann man sich ergeben muss“, #BrechtstattPrecht, Brief „Waffenstillstand jetzt!“** (meiden, bestätigt)
+  - Prüfung: Das Zitat und der Hashtag stehen wörtlich bei weekend.at (14.03.2022). Den Lauterbach-Tweet bestätigt der Tagesspiegel (02.10.2022), Brief, Masala, „getäuscht“ und Alaska bestätigt Wikipedia. Korrigiert: Wikipedia stuft die Alaska-These nicht (mehr) als Verschwörungstheorie ein. Das ZEIT-Datum …
+  - <https://www.weekend.at/politik/ukraine-soll-sich-ergeben-shitstorm-fuer-precht>
+  - <https://www.tagesspiegel.de/politik/tweet-von-karl-lauterbach-wir-sind-im-krieg-mit-putin-8706613.html>
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
+- **Big Data als „größerer Anschlag auf die Freiheit“ als 9/11 oder der Mord an den „Charlie Hebdo“-Journalisten (2015)** (meiden, bestätigt)
+  - Prüfung: Die Cicero-Zitate sind wörtlich geprüft, Autor und Datum stimmen.
+  - <https://www.cicero.de/kultur/nachhumanistische-philosophie-richard-david-precht-verharmlost-den-terror/58907>
+- **Fehde mit Jan Böhmermann (2023 und Mai 2025)** (meiden, bestätigt)
+  - Prüfung: Beide Berliner-Zeitung-Artikel bestätigen „Antipode“, das Pranger-Zitat, „Clownswelt“ und das „okay“. Lanz' genauer Wortlaut weicht leicht ab: Der Zusatz „um es mal ganz deutlich zu sagen“ ist nicht verifiziert und wurde gekürzt.
+  - <https://www.berliner-zeitung.de/kultur-vergnuegen/debatte/markus-lanz-fragt-richard-david-precht-ueber-jan-boehmermann-ist-das-denunziantentum-li.2328014>
+  - <https://www.berliner-zeitung.de/kultur-vergnuegen/wegen-judenaussage-jan-boehmermann-parodiert-markus-lanz-interner-kampf-im-zdf-richard-david-precht-li.2153278>
+- **„Vielosoph to go“** (fremdwahrnehmung, bestätigt)
+  - Prüfung: Den Spiegel-Titel „Vielosoph to go“ (Thomas Tuma, Spiegel 34/2011) nennt Wikipedia als Einzelnachweis zu „mediale Allzweckwaffe“.
+  - <https://de.wikipedia.org/wiki/Richard_David_Precht>
