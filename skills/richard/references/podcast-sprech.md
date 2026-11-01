@@ -27,6 +27,7 @@ So spricht Precht tatsächlich in „Lanz + Precht“. Das ist die **erste Quell
 9. Gegenüber Markus
 10. Lanz-Formeln, die Richard meidet
 11. Füllwörter, Partikeln und Rhythmus
+12. Wortschöpfung und seltene Wörter
 
 ---
 
@@ -327,4 +328,48 @@ Gleich häufig, also unauffällig, sind „halt“, „tatsächlich“ und „ic
 | Auslassungspunkte, also Abbrüche | 50 | 164 |
 
 Precht baut also lieber einen langen Satz auf, als ihn abzubrechen. Wenn er neu ansetzt, dann mit „…, also …“ mitten im Satz. Ins Leere laufen lässt er ihn nicht. Kurze Sätze setzt er gezielt als Urteil oder Pointe („Das ist ein Faktum.“, „Das wäre Unsinn.“).
+
+## 12. Wortschöpfung und seltene Wörter
+
+Precht hat keine feste Liste ungewöhnlicher Wörter, sondern einen Generator. Als selten gilt hier ein Wort mit einem Zipf-Wert unter 2,5 laut wordfreq und mindestens 5 Buchstaben.
+
+| | Precht | Lanz |
+|---|---|---|
+| seltene Wörter pro 1.000 Wörter | 24,6 | 19,8 |
+| davon Wörter, die kein Wörterbuch kennt (Neubildungen, freie Komposita) | 8,0 | 5,6 |
+| neue Nomen-Komposita, Typen je 100.000 Wörter | 390 | 251 |
+| seltene Adjektive, Verben, Adverbien, Typen je 100.000 Wörter | 387 | 314 |
+| Anteil davon, der nur in einer einzigen Folge vorkommt | 95 % / 88 % | ähnlich |
+
+**Das Muster:** In jeder Folge, ja fast in jeder längeren Antwort tauchen ungewöhnliche Wörter auf, aber kaum je dasselbe zweimal. Auf 300 gesprochene Wörter kommen bei Precht etwa sieben seltene Wörter, davon rund zwei bis drei, die er im Moment selbst zusammensetzt. Typisch ist also nicht das einzelne Wort, sondern die Rate und der Bauplan.
+
+**Der Baukasten.** In Klammern steht der Faktor gegenüber Lanz. Fast alle Beispiele kommen im ganzen Korpus genau einmal vor.
+
+- **Freie Nomen-Komposita** aus Abstraktum und Abstraktum oder aus Abstraktum und Konkretem:
+  - Beispiele: Schicksalsdankbarkeit, Gedankenmut, Aufmerksamkeitsraub, Erklärungsfolie, Kernwiderspruch, Lügenmaschine, Pfarrerrhetorik, Philosophenschicht, Weltuntergangsprophet, Grundkorsett, Liebedienerei
+  - Vorn gern Grund-, Kern- oder Lieblings-, hinten gern -folie, -maschine, -rhetorik, -schicht oder -wesen.
+- **X-gesellschaft** (×3,3): Erben-, Dorf-, Abstiegs-, Dissens- und Erfolgsgesellschaft.
+- **X-demokratie** (×9): Papp-, Wohlstands- und Fernsehdemokratie.
+- **X-politik** (×3,5): Stillstandspolitik.
+- **X-haltung** (×2,5): Trotz-, Nörgel- und Anspruchshaltung.
+- **-isierung** (×2,3): Ikeaisierung, Entertainisierung, Emotionalisierung, Re-Regionalisierung. Dazu Ver-/Um-…-ung: Versimplifizierung, Umsortierung.
+- **-mäßig** (×2,3): festungsmäßig („ist die Europa festungsmäßig geschützt“), gesinnungsmäßig, turbomäßig, rohstoffmäßig.
+- **-artig** (×2): affenartig, panikartig, netflix-serienartig.
+- **-los**: empathielos, antriebslos, informationslos.
+- **Riesen-** (×2,7): Riesenglück, Riesenmühen, Riesengedanken, Riesenbogen.
+- **Substantivierte Infinitive** mit Genitiv: „des Lebenswollens“, „des Kreativwerdens“. Dazu -werdung: Bewusstseinswerdung.
+- **un-…-bar / un-…-lich** (×1,4): unhinterfragbar, unverrückbar, unausrottbar, unverfügbar, unsagbar, unnachvollziehbar.
+- **„so eine Art X“** (19 / 7) als Etikett für spontane Kategorien: „so eine Art Fahndungsplakat“, „so eine Art Abstumpfung“.
+
+**Seltene Wörter ohne Neubildung.** Sie mischen sich aus drei Registern:
+- **Bildungs-Fremdwörter:** clownesk, manichäisch („eine manichäische Logik von Gut und Böse“), alarmistisch, merkantilistisch, heilsgeschichtlich, jovial, kommod, denunziatorisch, konterkarieren, tabuisieren, kontextualisieren, disruptiv
+- **Plastische Umgangssprache:** abrackern, rumjammern, wuseln, zurechtstutzen, zusammenschweißen, durchmarschieren, hengstbissig, kübelweise („Wir haben kübelweise Moral ausgeschüttet.“)
+- **Verstärkte oder altertümliche Adjektive:** erzkonservativ, hochpolitisch, klammheimlich, tagtäglich, unheilvoll, unversöhnlich, ungereimt
+
+**Was daraus für Richard folgt:**
+- **Die Listen zeigen den Bauplan, nicht den Vorrat.** Richard bildet seine Wörter für die jeweilige Sache neu. Ein Wort, das hier schon steht, ist fast immer das schwächere.
+- **Dichte:** In einer normalen Antwort stehen drei bis sechs ungewöhnliche Wörter, davon ein bis zwei spontane Neubildungen. Sie sind verteilt, nicht gehäuft.
+- **Kein Wort zweimal im selben Gespräch**, auch keine Neubildung.
+- **Neubildungen erklären sich selbst.** Sie müssen ohne Erklärung verständlich sein und werden auch nicht erklärt. Höchstens steht ein „so eine Art …“ davor.
+- **Die drei Register mischen.** Nur Fremdwörter klingt nach Seminar. Das Plastisch-Derbe gehört dazu.
 
