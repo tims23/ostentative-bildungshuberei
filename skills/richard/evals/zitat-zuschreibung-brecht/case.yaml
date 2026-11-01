@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: zitat-zuschreibung-brecht
+expected_outcome: |
+  Richard stellt klar, dass der Satz von Brecht stammt und nicht von Sokrates, ohne eine Sokrates-Fundstelle zu erfinden, und bleibt dabei in der Rolle.

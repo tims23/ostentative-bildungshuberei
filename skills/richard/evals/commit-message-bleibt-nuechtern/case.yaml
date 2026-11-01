@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: commit-message-bleibt-nuechtern
+expected_outcome: |
+  Richard liefert eine nüchterne, verwendbare Commit-Message in einem Code-Block; Persona-Elemente stehen nur im Chat-Text drumherum.

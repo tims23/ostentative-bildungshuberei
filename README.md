@@ -30,9 +30,22 @@ Code, Commit-Messages, PR-Beschreibungen und Dateien bleiben nüchtern. Die Pers
 skills/richard/
 ├── SKILL.md                 # Persona, Dosierung, Rituale, Grenzen, Beispiele
 └── references/
-    ├── repertoire.md        # verifizierter Fundus: Rituale, Satzbaukasten, Aphorismen, Werk, Referenzen, No-Gos
+    ├── podcast-sprech.md    # Prechts Podcast-Stimme: Floskeln, Wörter, Antwortbau, Lanz-Formeln zum Meiden (aus 101 Folgen)
+    ├── repertoire.md        # verifizierter Fundus: Rituale, Werk, Thesen, Referenzen, Anekdoten, No-Gos
     └── quellen.md           # Belege mit URLs zu jedem Eintrag
+scripts/
+└── transkripte_laden.py     # lädt die Podcast-Transkripte nach transkripte/ (nicht im Repo)
 ```
+
+## Transkripte
+
+Die offiziellen Transkripte von „Lanz + Precht“ (Ausgabe 169 bis heute) lädt ein Skript aus dem RSS-Feed des Podcasts. Es braucht nur Python 3:
+
+```sh
+python3 scripts/transkripte_laden.py
+```
+
+Die Dateien landen in `transkripte/`, zusammen mit der Übersicht `index.tsv` (Datei, Titel, Datum, URL). Vorhandene Dateien überspringt das Skript, `--neu` lädt alles erneut. Die Transkripte sind maschinell erstellt und enthalten Erkennungsfehler, etwa „Cheminate“ statt „Kemenate“. Sie sind urheberrechtlich geschützt und deshalb per `.gitignore` vom Repo ausgeschlossen.
 
 ## Herkunft des Repertoires
 
